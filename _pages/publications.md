@@ -20,4 +20,12 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 (* Equal Contribution)\
 In EMNLP Industry Track, 2022
 
+**2021**
 
+**# HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention** [[paper]](https://aclanthology.org/2021.emnlp-main.616.pdf)\
+Yuji Zhang, Yubo Zhang, Chunpu Xu, Jing Li, **Ziyan Jiang**, Baolin Peng\
+In EMNLP, 2021
+
+**Personalized Search-based Query Rewrite System for Conversational AI** [[paper]](https://aclanthology.org/2021.nlp4convai-1.17.pdf)\
+Eunah Cho, **Ziyan Jiang**, Jie Hao, Zheng Chen, Saurabh Gupta, Xing Fan, Chenlei Guo\
+In EMNLP NLP4ConvAI, 2021 (**Oral**)
