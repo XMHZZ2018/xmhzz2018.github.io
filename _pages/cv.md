@@ -57,3 +57,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Visiting Counter (monthly):
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=SBSSebRlIqacoeGBvJj1j7m-VcoLXRl5V5oqszSHfxM"></script>
