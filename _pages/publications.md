@@ -11,7 +11,8 @@ author_profile: true
 
 **KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting** [[paper]](https://arxiv.org/pdf/2302.10454.pdf) \
 Jinglun Cai, Mingda Li, **Ziyan Jiang**, Eunah Cho, Zheng Chen, Yang Liu, Xinf Fan, Chenlei Guo\
-In ICASSP, 2023.
+In ICASSP, 2023
+
 
 **2022**
 
@@ -19,6 +20,7 @@ In ICASSP, 2023.
 Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fan, Chenlei Guo\
 (* Equal Contribution)\
 In EMNLP Industry Track, 2022
+
 
 **2021**
 
@@ -29,3 +31,15 @@ In EMNLP, 2021
 **Personalized Search-based Query Rewrite System for Conversational AI** [[paper]](https://aclanthology.org/2021.nlp4convai-1.17.pdf)\
 Eunah Cho, **Ziyan Jiang**, Jie Hao, Zheng Chen, Saurabh Gupta, Xing Fan, Chenlei Guo\
 In EMNLP NLP4ConvAI, 2021 (**Oral**)
+
+
+**2020**
+
+**Black-box Attacks on Spoofing Countermeasures Using Transferability of Adversarial Examples** [[paper]](http://www.interspeech2020.org/uploadfile/pdf/Thu-SS-2-5-6.pdf)\
+Yuekai Zhang, **Ziyan Jiang**, Jesus Villalba, Najim Dehak\
+In Interspeech, 2020
+
+
+**2019**
+
+
