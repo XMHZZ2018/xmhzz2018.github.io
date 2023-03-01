@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-**Johns Jopkins University**, Baltimore, MD, USA  
+**Johns Hopkins University**, Baltimore, MD, USA  
 M.S. in Electrical and Computer Engineering, *Sep. 2018-May. 2020*
 
 **Nanjing University**, Nanjing, China    
