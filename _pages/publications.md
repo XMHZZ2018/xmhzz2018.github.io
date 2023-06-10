@@ -30,7 +30,7 @@ In EMNLP, 2021
 
 **Personalized Search-based Query Rewrite System for Conversational AI** [[paper]](https://aclanthology.org/2021.nlp4convai-1.17.pdf) [[presentation]](https://aclanthology.org/2021.nlp4convai-1.17.mp4)\
 Eunah Cho, **Ziyan Jiang**, Jie Hao, Zheng Chen, Saurabh Gupta, Xing Fan, Chenlei Guo\
-In EMNLP NLP4ConvAI, 2021 (**Oral**)
+In NLP4ConvAI@EMNLP, 2021
 
 **Black-box Attacks on Spoofing Countermeasures Using Transferability of Adversarial Examples** [[paper]](http://www.interspeech2020.org/uploadfile/pdf/Thu-SS-2-5-6.pdf)\
 Yuekai Zhang, **Ziyan Jiang**, Jesus Villalba, Najim Dehak\
