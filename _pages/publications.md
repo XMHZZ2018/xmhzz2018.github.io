@@ -6,12 +6,12 @@ author_profile: true
 ---
 **Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding** [[paper]](https://arxiv.org/abs/2305.14449) \
 Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan\
-(* Equal Contribution)
+(* Equal Contribution)\
 In arXiv
 
 **PALR: Personalization Aware LLMs for Recommendation** [[paper]](https://arxiv.org/abs/2305.07622) \
 Fan Yang\*, Zheng Chen\*, **Ziyan Jiang\***, Eunah Cho, Xiaojiang Huang, Yanbin Lu\
-(* Equal Contribution)
+(* Equal Contribution)\
 In GEN-IR@SIGIR, 2023
 
 **KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting** [[paper]](https://www.amazon.science/publications/kg-eco-knowledge-graph-enhanced-entity-correction-for-query-rewriting) \
