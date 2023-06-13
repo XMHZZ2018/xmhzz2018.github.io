@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application** [[paper]](https://arxiv.org/abs/2306.06302) \
+Elan Markowitz, **Ziyan Jiang**, Fan Yang, Xing Fan, Zheng Chen, Greg Ver Steeg, Aram Galstyan\
+In arXiv
+
 **Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding** [[paper]](https://arxiv.org/abs/2305.14449) \
 Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan\
 (* Equal Contribution)\
