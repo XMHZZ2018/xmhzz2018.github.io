@@ -11,7 +11,7 @@ In arXiv
 **Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding** [[paper]](https://arxiv.org/abs/2305.14449) \
 Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan\
 (* Equal Contribution)\
-In arXiv
+In Multimodal@KDD, 2023
 
 **PALR: Personalization Aware LLMs for Recommendation** [[paper]](https://arxiv.org/abs/2305.07622) \
 Fan Yang\*, Zheng Chen\*, **Ziyan Jiang\***, Eunah Cho, Xiaojiang Huang, Yanbin Lu\
