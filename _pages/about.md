@@ -15,4 +15,4 @@ I'm Ziyan Jiang and I'm currently working as an applied scientist at Amazon, Ale
 *Email:* ziyanjiang528@gmail.com
 
 ## News
-* **Aug 1, 2023** Co-organizing [Personalized Generative AI @ CIKM'23](https://sites.google.com/view/pgai2023). <span style="color:red;">Call for Paper until Aug 25, 2023.</span>
+* **Aug 1, 2023** Co-organizing [Personalized Generative AI @ CIKM'23](https://sites.google.com/view/pgai2023). <span style="color:red;">Call for Paper until Aug 25, 2023.</span>. Welcome your participation!
