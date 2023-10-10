@@ -15,4 +15,7 @@ I'm Ziyan Jiang and I'm currently working as an applied scientist at Amazon, Ale
 *Email:* ziyanjiang528@gmail.com
 
 ## News
+* **Oct 9, 2023** One paper has been accepted for the EMNLP Industry Track in 2023. The topic covers "LLM + Graph", "Natural Language Understanding", and "Conversational AI".
 * **Aug 1, 2023** Co-organizing [Personalized Generative AI @ CIKM'23](https://sites.google.com/view/pgai2023). <span style="color:red;">Call for Paper until Sep 10, 2023.</span> Welcome your participation!
+* **Jun 13, 2023** One paper has been accepted for the GEN-IR@SIGIR in 2023. The topic covers "LLM", "Recommender System", and "Personalization".
+* **Feb 15, 2023** One paper has been accepted for the ICASSP in 2023. The topic covers "Knowledge Graph", "Natural Language Understanding", and "Conversational AI".
