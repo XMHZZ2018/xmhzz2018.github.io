@@ -12,7 +12,7 @@ In arXiv
 Elan Markowitz, **Ziyan Jiang**, Fan Yang, Xing Fan, Zheng Chen, Greg Ver Steeg, Aram Galstyan\
 In arXiv
 
-**Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding** [[paper]](https://arxiv.org/abs/2305.14449) \
+**Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding** [[paper]](https://aclanthology.org/2023.emnlp-industry.75/) \
 Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan\
 (* Equal Contribution)\
 In EMNLP Industry Track, 2023
