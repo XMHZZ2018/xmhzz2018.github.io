@@ -15,6 +15,7 @@ I'm Ziyan Jiang and I'm currently working as an applied scientist at Amazon AGI 
 *Email:* ziyanjiang528@gmail.com
 
 ## News
+* **Feb, 2024** Co-organizing [Generative Information Retrieval @ SIGIR'24](https://coda.io/@sigir/gen-ir-24). More details to come later.
 * **Oct 9, 2023** One paper has been accepted for the EMNLP Industry Track in 2023. The topic covers "LLM + Graph", "Natural Language Understanding", and "Conversational AI".
 * **Aug 1, 2023** Co-organizing [Personalized Generative AI @ CIKM'23](https://sites.google.com/view/pgai2023). <span style="color:red;">Call for Paper until Sep 10, 2023.</span> Welcome your participation!
 * **Jun 13, 2023** One paper has been accepted for the GEN-IR@SIGIR in 2023. The topic covers "LLM", "Recommender System", and "Personalization".
