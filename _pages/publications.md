@@ -44,7 +44,7 @@ In NLP4ConvAI@EMNLP, 2021
 Yuekai Zhang, **Ziyan Jiang**, Jesus Villalba, Najim Dehak\
 In Interspeech, 2020
 
-**A comparative study on transformer vs rnn in speech applications** [[paper]](https://ieeexplore.ieee.org/abstract/document/9003750)\
+**A Comparative Study on Transformer vs RNN in Speech Applications** [[paper]](https://ieeexplore.ieee.org/abstract/document/9003750)\
 Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, **Ziyan Jiang**, Masao Someki, Nelson Enrique Yalta Soplin, Ryuichi Yamamoto, Xiaofei Wang, Shinji Watanabe, Takenori Yoshimura, Wangyou Zhang\
 In ASRU, 2019
 
