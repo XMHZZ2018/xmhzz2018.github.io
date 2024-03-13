@@ -6,7 +6,7 @@ author_profile: true
 ---
 **RecMind: Large Language Model Powered Agent For Recommendation** [[paper]](https://arxiv.org/pdf/2308.14296.pdf) \
 Yancheng Wang, **Ziyan Jiang\***, Zheng Chen\*, Fan Yang\*, Yingxue Zhou\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang\
-In arXiv
+In NAACL Findings, 2024
 
 **Multi-Task Knowledge Enhancement for Zero-Shot and Multi-Domain Recommendation in an AI Assistant Application** [[paper]](https://arxiv.org/abs/2306.06302) \
 Elan Markowitz, **Ziyan Jiang**, Fan Yang, Xing Fan, Zheng Chen, Greg Ver Steeg, Aram Galstyan\
