@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Position-Aware Parameter Efficient Fine-Tuning Approach for Reducing Positional Bias in LLMs** [[paper]](https://https://arxiv.org/pdf/2404.01430.pdf) \
+**Position-Aware Parameter Efficient Fine-Tuning Approach for Reducing Positional Bias in LLMs** [[paper]](https://arxiv.org/pdf/2404.01430.pdf) \
 Zheng Zhang, Fan Yang, **Ziyan Jiang**, Zheng Chen, Zhengyang Zhao, Chengyuan Ma, Liang Zhao, Yang Liu\
 In arXiv
 
