@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Position-Aware Parameter Efficient Fine-Tuning Approach for Reducing Positional Bias in LLMs** [[paper]](https://https://arxiv.org/pdf/2404.01430.pdf) \
+Zheng Zhang, Fan Yang, **Ziyan Jiang**, Zheng Chen, Zhengyang Zhao, Chengyuan Ma, Liang Zhao, Yang Liu\
+In arXiv
+
 **RecMind: Large Language Model Powered Agent For Recommendation** [[paper]](https://arxiv.org/pdf/2308.14296.pdf) \
 Yancheng Wang, **Ziyan Jiang\***, Zheng Chen\*, Fan Yang\*, Yingxue Zhou\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang\
 In NAACL Findings, 2024
