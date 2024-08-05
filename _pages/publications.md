@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark** [[paper]](https://arxiv.org/abs/2406.01574) [[code]](https://github.com/TIGER-AI-Lab/MMLU-Pro) \
+Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, **Ziyan Jiang**, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen\
+In arXiv
+
 **Position-Aware Parameter Efficient Fine-Tuning Approach for Reducing Positional Bias in LLMs** [[paper]](https://arxiv.org/pdf/2404.01430.pdf) \
 Zheng Zhang, Fan Yang, **Ziyan Jiang**, Zheng Chen, Zhengyang Zhao, Chengyuan Ma, Liang Zhao, Yang Liu\
 In arXiv
