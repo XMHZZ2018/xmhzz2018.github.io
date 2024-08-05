@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## About
-I'm Ziyan Jiang and I'm currently working as an applied scientist at Amazon AGI (Artificial General Intelligence). I obtained the M.S. degree at Johns Hopkins University (JHU) and B.S. degree at Nanjing University (NJU). My research is primarily focused on Natural Language Processing, Information Retrieval and Speech Recognition. Recently, I've become interested in several topics related to large language models (LLMs), including: 1) How to personalize LLMs for individualized responses 2) LLMs integration with graphs 3) LLMs powered agents 4) Enabling LLMs to handle long contexts. Feel free to reach out if you'd like to discuss these topics with me!
+I'm Ziyan Jiang and I'm currently working as an applied scientist at Amazon AGI (Artificial General Intelligence). I obtained the M.S. degree at Johns Hopkins University (JHU) and B.S. degree at Nanjing University (NJU). My research is primarily focused on Natural Language Processing, Information Retrieval and Speech Recognition. During the pre-LLM era, I primarily worked on conversational AI and personalization. Recently, I have been focusing on LLM * {Agent, IR, Evaluation, Multimodal}. Feel free to reach out if you'd like to discuss these topics with me!
 
 *Email:* ziyanjiang528@gmail.com
 
