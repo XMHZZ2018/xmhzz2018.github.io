@@ -4,6 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation** [[paper]](https://arxiv.org/abs/2406.15252) [[website]](https://tiger-ai-lab.github.io/VideoScore/) \
+Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, **Ziyan Jiang**, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen\
+In arXiv
+
+**LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs** [[paper]](https://arxiv.org/abs/2406.15319) [[website]](https://tiger-ai-lab.github.io/LongRAG/) \
+**Ziyan Jiang**, Xueguang Ma, Wenhu Chen\
+In arXiv
+
 **MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark** [[paper]](https://arxiv.org/abs/2406.01574) [[code]](https://github.com/TIGER-AI-Lab/MMLU-Pro) \
 Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, **Ziyan Jiang**, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen\
 In arXiv
