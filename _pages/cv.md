@@ -28,6 +28,7 @@ Applied Scientist Intern, *Jul. 2019-Oct.2019*
 
   
 
-Visiting Counter:
+Visiting Counter
+======
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=VUMOZXwsa61UefYDfWLYddL6oEDQcxcZUTwDrOzFrcs"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VUMOZXwsa61UefYDfWLYddL6oEDQcxcZUTwDrOzFrcs&cl=ffffff&w=a"></script>
