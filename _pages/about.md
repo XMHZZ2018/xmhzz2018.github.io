@@ -15,6 +15,7 @@ I'm Ziyan Jiang and I'm currently working as an applied scientist at Amazon AGI 
 *Email:* ziyanjiang528@gmail.com
 
 ## News
+* **Sep, 2024** Two papers have beed accepted for the EMNLP (One Main + One Findings) in 2024.
 * **Mar, 2024** One paper has been accepted for the NAACL Findings in 2024.
 * **Feb, 2024** Co-organizing [Generative Information Retrieval @ SIGIR'24](https://coda.io/@sigir/gen-ir-24).
 * **Oct, 2023** One paper has been accepted for the EMNLP Industry Track in 2023.
