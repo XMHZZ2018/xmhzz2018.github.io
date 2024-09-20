@@ -22,4 +22,4 @@ I'm Ziyan Jiang and I'm currently working as an applied scientist at Amazon AGI 
 * **Aug, 2023** Co-organizing [Personalized Generative AI @ CIKM'23](https://sites.google.com/view/pgai2023).
 * **Jun, 2023** One paper ([PALR](https://arxiv.org/pdf/2305.07622)) has been accepted for the GEN-IR@SIGIR in 2023.
 * **Feb, 2023** One paper ([KG-ECO](https://arxiv.org/pdf/2302.10454)) has been accepted for the ICASSP in 2023.
-* **Oct, 2023** One paper ([PENTATRON](https://arxiv.org/pdf/2210.12308)) has been accepted for the EMNLP Industry Track in 2022.
+* **Oct, 2022** One paper ([PENTATRON](https://arxiv.org/pdf/2210.12308)) has been accepted for the EMNLP Industry Track in 2022.
