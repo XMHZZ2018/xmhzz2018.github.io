@@ -15,6 +15,7 @@ I'm Ziyan Jiang and I'm currently working as an applied scientist at Amazon AGI 
 *Email:* ziyanjiang528@gmail.com
 
 ## News
+* **Sep, 2024** One paper ([MMLU-Pro](https://arxiv.org/pdf/2406.01574)) has been accepted for the NeurIPS D&B Track in 2024.
 * **Sep, 2024** Two papers ([VideoScore](https://arxiv.org/pdf/2406.15252) and [SSRM](https://www.arxiv.org/pdf/2409.06903)) have beed accepted for the EMNLP (One Main + One Findings) in 2024.
 * **Mar, 2024** One paper ([RecMind](https://arxiv.org/pdf/2308.14296)) has been accepted for the NAACL Findings in 2024.
 * **Feb, 2024** Co-organizing [Generative Information Retrieval @ SIGIR'24](https://coda.io/@sigir/gen-ir-24).
