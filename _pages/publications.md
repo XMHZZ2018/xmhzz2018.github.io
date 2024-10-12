@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks** [[paper]](https://arxiv.org/abs/2410.05160) [[website]](https://tiger-ai-lab.github.io/VLM2Vec/) \
+**Ziyan Jiang**, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen
+In arXiv
+
 **Semi-Supervised Reward Modeling via Iterative Self-Training** [[paper]](https://arxiv.org/pdf/2409.06903) [[code]](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm) \
 Yifei He, Haoxiang Wang, **Ziyan Jiang**, Alexandros Papangelis, Han Zhao \
 In EMNLP Findings, 2024
