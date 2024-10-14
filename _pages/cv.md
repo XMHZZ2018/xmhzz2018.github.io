@@ -20,8 +20,8 @@ B.S. in Acoustics and Physics, *Sep. 2014-Jul. 2018*
 
 Work experience
 ======
-**Amazon, Alexa AI**, Bellevue, WA, USA\
-Applied Scientist, *Jul. 2020-Present*
+**Amazon, Alexa AI & AGI**, Bellevue, WA, USA\
+Applied Scientist, *Jul. 2020-Aug. 2024*
 
 **Amazon, Alexa AI**, Seattle, WA, USA\
 Applied Scientist Intern, *Jul. 2019-Oct.2019*
