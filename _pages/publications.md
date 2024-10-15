@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks** [[paper]](https://arxiv.org/abs/2410.10563) [[website]](https://tiger-ai-lab.github.io/MEGA-Bench/) \
+Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, **Ziyan Jiang**, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen \
+In arXiv
+
 **VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks** [[paper]](https://arxiv.org/abs/2410.05160) [[website]](https://tiger-ai-lab.github.io/VLM2Vec/) \
 **Ziyan Jiang**, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen \
 In arXiv
