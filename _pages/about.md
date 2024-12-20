@@ -15,6 +15,7 @@ I'm currently taking a break to focus on research. For the past few years, I wor
 *Email:* ziyanjiang528@gmail.com
 
 ## News
+* **Dec, 2024** One paper ([Knowledge Enhanced Multi-Domain Recommendations](https://arxiv.org/pdf/2306.06302)) has been accepted for the ICASSP in 2025.
 * **Sep, 2024** One paper ([MMLU-Pro](https://arxiv.org/pdf/2406.01574)) has been accepted for the NeurIPS D&B Track in 2024.
 * **Sep, 2024** Two papers ([VideoScore](https://arxiv.org/pdf/2406.15252) and [SSRM](https://www.arxiv.org/pdf/2409.06903)) have beed accepted for the EMNLP (One Main + One Findings) in 2024.
 * **Mar, 2024** One paper ([RecMind](https://arxiv.org/pdf/2308.14296)) has been accepted for the NAACL Findings in 2024.
