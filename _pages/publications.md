@@ -6,11 +6,11 @@ author_profile: true
 ---
 **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks** [[paper]](https://arxiv.org/abs/2410.10563) [[website]](https://tiger-ai-lab.github.io/MEGA-Bench/) \
 Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, **Ziyan Jiang**, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen \
-In arXiv
+In ICLR, 2025
 
 **VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks** [[paper]](https://arxiv.org/abs/2410.05160) [[website]](https://tiger-ai-lab.github.io/VLM2Vec/) \
 **Ziyan Jiang**, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen \
-In arXiv
+In ICLR, 2025
 
 **Semi-Supervised Reward Modeling via Iterative Self-Training** [[paper]](https://arxiv.org/pdf/2409.06903) [[code]](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm) \
 Yifei He, Haoxiang Wang, **Ziyan Jiang**, Alexandros Papangelis, Han Zhao \
