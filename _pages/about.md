@@ -158,6 +158,18 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2020</div><img src='images/iem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Black-box Attacks on Spoofing Countermeasures Using Transferability of Adversarial Examples](https://www.isca-archive.org/interspeech_2020/zhang20ha_interspeech.pdf)
+
+Yuekai Zhang, **Ziyan Jiang**, Jesús Villalba, Najim Dehak
+
+- We use MI-FGSM to improve the transferability of adversarial examples and propose an iterative ensemble method (IEM) to further improve the transferability. 
+</div>
+</div>
+
+
 - <span class='paper-badge'>Gen-IR@SIGIR 2023</span> [PALR: Personalization Aware LLMs for Recommendation](https://arxiv.org/abs/2305.07622), Fan Yang\*, Zheng Chen\*, **Ziyan Jiang\***, Eunah Cho, Xiaojiang Huang, Yanbin Lu
 - <span class='paper-badge'>NLP4ConvAI@EMNLP 2021</span> [Personalized search-based query rewrite system for conversational ai](https://aclanthology.org/2021.nlp4convai-1.17/), Eunah Cho, **Ziyan Jiang**, Jie Hao, Zheng Chen, Saurabh Gupta, Xing Fan, Chenlei Guo
 
