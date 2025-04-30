@@ -67,6 +67,20 @@ Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/videoscore.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation](https://arxiv.org/abs/2406.15252)
+
+Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, **Ziyan Jiang**, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen
+
+[**Project Page**](https://tiger-ai-lab.github.io/VideoScore/)
+- we release VIDEOFEEDBACK, the first largescale dataset containing human-provided multiaspect score over 37.6K synthesized videos
+from 11 existing video generative models. We train VIDEOSCORE based on VIDEOFEEDBACK to enable automatic video quality assessment.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 (Findings)</div><img src='images/recmind.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
