@@ -28,15 +28,15 @@ My research focuses on natural language processing, information retrieval, and s
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/vlm2vec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks](https://arxiv.org/abs/2410.05160)
 
 **Ziyan Jiang**, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen
 
-[**Project Page**]([https://video-msg.github.io/](https://tiger-ai-lab.github.io/VLM2Vec/))
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project Page**](https://tiger-ai-lab.github.io/VLM2Vec/)
+- We develop a universal multimodal embedding benchmark, MMEB, along with VLM2Vec, an embedding model adapted from vision-language models (VLMs).
 </div>
 </div>
 
