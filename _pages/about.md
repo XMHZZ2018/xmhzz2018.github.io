@@ -160,7 +160,7 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 
 <h1 id="educations">📖 Educations</h1>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/jhu_logo.png' alt="sym" width="35%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/jhu_logo.jpg' alt="sym" width="35%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2018.08 - 2020.05*
 - Johns Hopkins University 
