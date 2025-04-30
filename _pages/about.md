@@ -158,6 +158,18 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='images/hashtag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Black-box Attacks on Spoofing Countermeasures Using Transferability of Adversarial Examples](https://aclanthology.org/2021.emnlp-main.616/)
+
+Yuji Zhang, Yubo Zhang, Chunpu Xu, Jing Li, **Ziyan Jiang**, Baolin Peng
+
+- We propose a novel personalized topic attention to capture salient contents to personalize hashtag contexts.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2020</div><img src='images/iem.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
