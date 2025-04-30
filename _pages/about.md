@@ -125,10 +125,22 @@ Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huan
 
 Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fan, Chenlei Guo
 
-- We build and evaluate a scalable entity correction system, PENTATRON, which leverages a parametric transformer-based language model to learn patterns from in-session customer-device interactions coupled with a non-parametric personalized entity index to compute the correct query
+- We build and evaluate a scalable entity correction system, PENTATRON, which leverages a parametric transformer-based language model to learn patterns from in-session customer-device interactions coupled with a non-parametric personalized entity index to compute the correct query.
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/kg-eco.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting](https://arxiv.org/abs/2302.10454)
+
+Jinglun Cai, Mingda Li, **Ziyan Jiang**, Eunah Cho, Zheng Chen, Yang Liu, Xing Fan, Chenlei Guo
+
+- We propose KG-ECO: Knowledge Graph enhanced Entity COrrection for query rewriting, an entity correction system with corrupt entity
+span detection and entity retrieval/re-ranking functionalities.
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
