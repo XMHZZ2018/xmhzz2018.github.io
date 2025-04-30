@@ -54,6 +54,18 @@ Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/kg-rec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Knowledge Enhanced Multi-Domain Recommendations in an AI Assistant Application](https://ieeexplore.ieee.org/abstract/document/10889248)
+
+Elan Markowitz, **Ziyan Jiang**, Fan Yang, Xing Fan, Zheng Chen, Greg Ver Steeg
+
+- We explore unifying knowledge enhanced recommendation with multi-domain recommendation systems in a conversational AI assistant application.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mmlu-pro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -118,18 +130,6 @@ Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huan
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022 (Industry)</div><img src='images/pentatron.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding](https://arxiv.org/abs/2210.12308)
-
-Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fan, Chenlei Guo
-
-- We build and evaluate a scalable entity correction system, PENTATRON, which leverages a parametric transformer-based language model to learn patterns from in-session customer-device interactions coupled with a non-parametric personalized entity index to compute the correct query.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/kg-eco.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -141,6 +141,19 @@ Jinglun Cai, Mingda Li, **Ziyan Jiang**, Eunah Cho, Zheng Chen, Yang Liu, Xing F
 span detection and entity retrieval/re-ranking functionalities.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022 (Industry)</div><img src='images/pentatron.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding](https://arxiv.org/abs/2210.12308)
+
+Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fan, Chenlei Guo
+
+- We build and evaluate a scalable entity correction system, PENTATRON, which leverages a parametric transformer-based language model to learn patterns from in-session customer-device interactions coupled with a non-parametric personalized entity index to compute the correct query.
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards
