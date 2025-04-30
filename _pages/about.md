@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming Ph.D. student in Computer Science at UC Santa Barbara, advised by Prof. Shiyu Chang. Previously, I earned my bachelor's degree from Nanjing University and my master's degree from Johns Hopkins University. Before starting my Ph.D., I spent several years as a full-time applied scientist at Amazon Alexa AI and Amazon AGI.
+I'm an incoming Ph.D. student in Computer Science at UC Santa Barbara, advised by [Prof. Shiyu Chang](https://code-terminator.github.io/). Previously, I earned my bachelor's degree from Nanjing University and my master's degree from Johns Hopkins University. Before starting my Ph.D., I spent several years as a full-time applied scientist at Amazon Alexa AI and Amazon AGI.
 
 My research focuses on natural language processing, information retrieval, and speech recognition.
 
@@ -63,6 +63,18 @@ Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, 
 
 [**Project Page**](https://github.com/TIGER-AI-Lab/MMLU-Pro)
 - We introduce MMLU-Pro, an enhanced dataset designed to extend the mostly knowledge-driven MMLU benchmark by integrating more challenging, reasoning-focused questions and expanding the choice set from four to ten options.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 (Findings)</div><img src='images/recmind.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/abs/2308.14296)
+
+Yancheng Wang, **Ziyan Jiang**, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang
+
+- We designe an LLMpowered autonomous recommender agent, RecMind, which is capable of leveraging external knowledge, utilizing tools with careful planning to provide zero-shot personalized recommendations.
 </div>
 </div>
 
