@@ -75,8 +75,21 @@ Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, 
 Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, **Ziyan Jiang**, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen
 
 [**Project Page**](https://tiger-ai-lab.github.io/VideoScore/)
-- we release VideoFeedback, the first largescale dataset containing human-provided multiaspect score over 37.6K synthesized videos
+- We release VideoFeedback, the first largescale dataset containing human-provided multiaspect score over 37.6K synthesized videos
 from 11 existing video generative models. We train VideoScore based on VideoFeedback to enable automatic video quality assessment.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (Findings)</div><img src='images/ssrm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Semi-Supervised Reward Modeling via Iterative Self-Training](https://arxiv.org/abs/2409.06903)
+
+Yifei He, Haoxiang Wang, **Ziyan Jiang**, Alexandros Papangelis, Han Zhao
+
+[**Code**](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm/SSRM)
+- We propose Semi-Supervised Reward Modeling (SSRM), an approach that enhances RM training using unlabeled data
 </div>
 </div>
 
@@ -88,7 +101,7 @@ from 11 existing video generative models. We train VideoScore based on VideoFeed
 
 Yancheng Wang, **Ziyan Jiang**, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang
 
-- We designe an LLMpowered autonomous recommender agent, RecMind, which is capable of leveraging external knowledge, utilizing tools with careful planning to provide zero-shot personalized recommendations.
+- We design an LLMpowered autonomous recommender agent, RecMind, which is capable of leveraging external knowledge, utilizing tools with careful planning to provide zero-shot personalized recommendations.
 </div>
 </div>
 
