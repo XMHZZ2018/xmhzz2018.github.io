@@ -170,7 +170,7 @@ Yuji Zhang, Yubo Zhang, Chunpu Xu, Jing Li, **Ziyan Jiang**, Baolin Peng
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2020</div><img src='images/iem.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2020</div><img src='images/iem.png' alt="sym" width="100%" style="height: 150px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Black-box Attacks on Spoofing Countermeasures Using Transferability of Adversarial Examples](https://www.isca-archive.org/interspeech_2020/zhang20ha_interspeech.pdf)
