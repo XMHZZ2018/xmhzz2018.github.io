@@ -26,7 +26,9 @@ My research focuses on natural language processing, information retrieval, and s
 # 🔥 News
 - *2025.04*: I’ve moved my personal homepage to this new site; the old one is now deprecated. (The new one is still in construction.) 
 
-# 📝 Publications (*: equal contribution/co-first author)
+
+
+<h1 id="publications">📝 Publications (*: equal contribution/co-first author)</h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/vlm2vec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
