@@ -4,6 +4,7 @@ on:
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
+ workflow_dispatch:      # Allow manual triggering
 
 jobs:
   build:
