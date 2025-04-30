@@ -40,7 +40,7 @@ My research focuses on natural language processing, information retrieval, and s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/mega-bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/mega-bench.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks](https://arxiv.org/abs/2410.10563)
@@ -48,7 +48,7 @@ My research focuses on natural language processing, information retrieval, and s
 Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, **Ziyan Jiang**, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen
 
 [**Project Page**](https://tiger-ai-lab.github.io/MEGA-Bench/)
-- We present MEGA-BENCH, an evaluation suite that scales multimodal evaluation to over 500 real-world tasks.
+- We present MEGA-Bench, an evaluation suite that scales multimodal evaluation to over 500 real-world tasks.
 </div>
 </div>
 
