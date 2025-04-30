@@ -191,6 +191,6 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 
 
 <h1 id="services">🧐 Services</h1>
-- Conference reviewer: NeurIPS, ICLR, ARR (ACL, EMNLP, NAACL, EACL), ICASSP
-- Journal reviewer: IEEE Access, TOIS
+- Conference Reviewer: NeurIPS(2024-Present), ICLR(2024-Present), ACL ARR(2023-Present), ICASSP(2024-Present)
+- Journal Reviewer: IEEE Access, TOIS
 - Workshop Organizer: [The First Workshop on Personalized Generative AI (@CIKM2023)](https://sites.google.com/view/pgai2023/home), [The Second Workshop on Generative Information Retrieval (@SIGIR2024)](https://coda.io/@sigir/gen-ir-24)
