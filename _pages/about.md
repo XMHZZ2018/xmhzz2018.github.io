@@ -105,6 +105,19 @@ Yancheng Wang, **Ziyan Jiang**, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, X
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 (Industry)</div><img src='images/cdfs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding](https://aclanthology.org/2023.emnlp-industry.75/)
+
+Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan
+
+- We introduce our Collaborative Query Rewriting approach, which utilizes underlying topological information to assist in rewriting defective queries arising from unseen user interactions. 
+</div>
+</div>
+
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
