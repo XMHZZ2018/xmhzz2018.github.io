@@ -182,6 +182,18 @@ Yuekai Zhang, **Ziyan Jiang**, Jesús Villalba, Najim Dehak
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2019</div><img src='images/espnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Comparative Study on Transformer vs RNN in Speech Applications](https://arxiv.org/abs/1909.06317)
+
+Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, **Ziyan Jiang**, Masao Someki, Nelson Enrique Yalta Soplin, Ryuichi Yamamoto, Xiaofei Wang, Shinji Watanabe, Takenori Yoshimura, Wangyou Zhang
+
+- We undertake intensive studies in which we experimentally compared and analyzed Transformer and conventional recurrent neural networks (RNN) in a total of 15 ASR, one multilingual ASR, one ST, and two TTS benchmarks. Our experiments reveal various training tips and significant performance benefits obtained with Transformer for each task including the surprising superiority of Transformer in 13/15 ASR benchmarks in comparison with RNN.
+</div>
+</div>
+
+
 - <span class='paper-badge'>Gen-IR@SIGIR 2023</span> [PALR: Personalization Aware LLMs for Recommendation](https://arxiv.org/abs/2305.07622), Fan Yang\*, Zheng Chen\*, **Ziyan Jiang\***, Eunah Cho, Xiaojiang Huang, Yanbin Lu
 - <span class='paper-badge'>NLP4ConvAI@EMNLP 2021</span> [Personalized search-based query rewrite system for conversational ai](https://aclanthology.org/2021.nlp4convai-1.17/), Eunah Cho, **Ziyan Jiang**, Jie Hao, Zheng Chen, Saurabh Gupta, Xing Fan, Chenlei Guo
 
