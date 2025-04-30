@@ -24,7 +24,7 @@ My research focuses on natural language processing, information retrieval, and s
 
 
 # 🔥 News
-- *2025.04*: I’ve moved my personal homepage to a new site; the old one is now deprecated. (This one is still in construction.) 
+- *2025.04*: I’ve moved my personal homepage to this new site; the old one is now deprecated. (The new one is still in construction.) 
 
 # 📝 Publications 
 
