@@ -118,7 +118,18 @@ Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huan
 </div>
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022 (Industry)</div><img src='images/pentatron.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding](https://arxiv.org/abs/2210.12308)
+
+Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fan, Chenlei Guo
+
+- We build and evaluate a scalable entity correction system, PENTATRON, which leverages a parametric transformer-based language model to learn patterns from in-session customer-device interactions coupled with a non-parametric personalized entity index to compute the correct query
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
