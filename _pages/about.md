@@ -40,7 +40,7 @@ My research focuses on natural language processing, information retrieval, and s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/mega-bench.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/mega-bench.png' alt="sym" style="width: 100%; height: 50%; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks](https://arxiv.org/abs/2410.10563)
