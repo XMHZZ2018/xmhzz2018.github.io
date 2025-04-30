@@ -12,8 +12,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Service"
-    url: "/#-service"
+  - title: "Services"
+    url: "/#-services"
 
-  - title: "Working Experience"
-    url: "/#-internships"
+  - title: "Working Experiences"
+    url: "/#-working-experiences"
