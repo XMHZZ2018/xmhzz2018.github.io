@@ -29,6 +29,7 @@ My research focuses on natural language processing, information retrieval, and s
 
 
 <h1 id="publications">📝 Publications (*: equal contribution/co-first author)</h1>
+Full publications on [Google Scholar](https://scholar.google.com/citations?user=wDJjd2IAAAAJ&hl=en).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/vlm2vec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
