@@ -75,8 +75,8 @@ Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, 
 Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, **Ziyan Jiang**, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen
 
 [**Project Page**](https://tiger-ai-lab.github.io/VideoScore/)
-- we release VIDEOFEEDBACK, the first largescale dataset containing human-provided multiaspect score over 37.6K synthesized videos
-from 11 existing video generative models. We train VIDEOSCORE based on VIDEOFEEDBACK to enable automatic video quality assessment.
+- we release VideoFeedback, the first largescale dataset containing human-provided multiaspect score over 37.6K synthesized videos
+from 11 existing video generative models. We train VideoScore based on VideoFeedback to enable automatic video quality assessment.
 </div>
 </div>
 
