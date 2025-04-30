@@ -161,7 +161,7 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 
 <h1 id="educations">📖 Educations</h1>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/jhu_logo.jpg' alt="sym" style="width: 80px; height: 80px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/jhu_logo.jpg' alt="sym" style="width: 200px; height: 200px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2018.08 - 2020.05*
 - Johns Hopkins University 
@@ -169,7 +169,7 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/nju_logo.png' alt="sym" style="width: 80px; height: 80px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/nju_logo.png' alt="sym" style="width: 200px; height: 200px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2014.09 - 2018.07*
 - Nanjing University 
