@@ -158,9 +158,8 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 </div>
 
 
-- `Gen-IR@SIGIR 2023` [PALR: Personalization Aware LLMs for Recommendation](https://arxiv.org/abs/2305.07622), Fan Yang\*, Zheng Chen\*, **Ziyan Jiang\***, Eunah Cho, Xiaojiang Huang, Yanbin Lu
-- <span class="badge">AAAI 2024</span> Test
-- <span class='paper-badge'>AAAI 2024</span> Test
+- <span class='paper-badge'>Gen-IR@SIGIR 2023</span> [PALR: Personalization Aware LLMs for Recommendation](https://arxiv.org/abs/2305.07622), Fan Yang\*, Zheng Chen\*, **Ziyan Jiang\***, Eunah Cho, Xiaojiang Huang, Yanbin Lu
+
 
 
 
