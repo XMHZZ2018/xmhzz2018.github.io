@@ -158,9 +158,14 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 
 
 
-<h1 id="services">📖 Educations</h1>
-- Adding
-
+<h1 id="educations">📖 Educations</h1>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/nju_logo.png' alt="sym" width="35%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2014.09 - 2018.07*
+- Nanjing University 
+- Acoustics, B.S.
+</div>
+</div>
 
 
 <h1 id="working-experiences">💻 Working Experiences</h1>
