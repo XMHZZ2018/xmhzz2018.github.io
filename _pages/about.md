@@ -184,7 +184,7 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 <div class='paper-box-text' markdown="1">
 - *2020.07 - 2024.08*
 - Amazon Alexa AI & AGI 
-- Applied Scientiest I -> Applied Scientiest II
+- Applied Scientist I -> Applied Scientist II
 </div>
 </div>
 
