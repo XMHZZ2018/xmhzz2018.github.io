@@ -21,6 +21,8 @@ I'm an incoming CS Ph.D. student in the [NLP Lab](http://nlp.cs.ucsb.edu/) at UC
 
 My research focuses on natural language processing, information retrieval, and speech recognition.
 
+I’m always open to collaboration opportunities. If you're interested, feel free to reach out to me via **ziyanjiang528@gmail.com**
+
 
 
 # 🔥 News
@@ -39,7 +41,6 @@ Full publications on [Google Scholar](https://scholar.google.com/citations?user=
 **Ziyan Jiang**, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen
 
 [**Project Page**](https://tiger-ai-lab.github.io/VLM2Vec/)
-- We develop a universal multimodal embedding benchmark, MMEB, along with VLM2Vec, an embedding model adapted from vision-language models (VLMs).
 </div>
 </div>
 
@@ -52,7 +53,7 @@ Full publications on [Google Scholar](https://scholar.google.com/citations?user=
 Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, **Ziyan Jiang**, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen
 
 [**Project Page**](https://tiger-ai-lab.github.io/MEGA-Bench/)
-- We present MEGA-Bench, an evaluation suite that scales multimodal evaluation to over 500 real-world tasks.
+
 </div>
 </div>
 
@@ -64,7 +65,6 @@ Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, 
 
 Elan Markowitz, **Ziyan Jiang**, Fan Yang, Xing Fan, Zheng Chen, Greg Ver Steeg
 
-- We explore unifying knowledge enhanced recommendation with multi-domain recommendation systems in a conversational AI assistant application.
 </div>
 </div>
 
@@ -77,7 +77,7 @@ Elan Markowitz, **Ziyan Jiang**, Fan Yang, Xing Fan, Zheng Chen, Greg Ver Steeg
 Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, **Ziyan Jiang**, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen
 
 [**Project Page**](https://github.com/TIGER-AI-Lab/MMLU-Pro)
-- We introduce MMLU-Pro, an enhanced dataset designed to extend the mostly knowledge-driven MMLU benchmark by integrating more challenging, reasoning-focused questions and expanding the choice set from four to ten options.
+
 </div>
 </div>
 
@@ -90,8 +90,7 @@ Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, 
 Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, **Ziyan Jiang**, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen
 
 [**Project Page**](https://tiger-ai-lab.github.io/VideoScore/)
-- We release VideoFeedback, the first largescale dataset containing human-provided multiaspect score over 37.6K synthesized videos
-from 11 existing video generative models. We train VideoScore based on VideoFeedback to enable automatic video quality assessment.
+
 </div>
 </div>
 
@@ -104,7 +103,7 @@ from 11 existing video generative models. We train VideoScore based on VideoFeed
 Yifei He, Haoxiang Wang, **Ziyan Jiang**, Alexandros Papangelis, Han Zhao
 
 [**Code**](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm/SSRM)
-- We propose Semi-Supervised Reward Modeling (SSRM), an approach that enhances RM training using unlabeled data
+
 </div>
 </div>
 
@@ -116,7 +115,6 @@ Yifei He, Haoxiang Wang, **Ziyan Jiang**, Alexandros Papangelis, Han Zhao
 
 Yancheng Wang, **Ziyan Jiang**, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang
 
-- We design an LLMpowered autonomous recommender agent, RecMind, which is capable of leveraging external knowledge, utilizing tools with careful planning to provide zero-shot personalized recommendations.
 </div>
 </div>
 
@@ -128,7 +126,6 @@ Yancheng Wang, **Ziyan Jiang**, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, X
 
 Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan
 
-- We introduce our Collaborative Query Rewriting approach, which utilizes underlying topological information to assist in rewriting defective queries arising from unseen user interactions. 
 </div>
 </div>
 
@@ -140,8 +137,6 @@ Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huan
 
 Jinglun Cai, Mingda Li, **Ziyan Jiang**, Eunah Cho, Zheng Chen, Yang Liu, Xing Fan, Chenlei Guo
 
-- We propose KG-ECO: Knowledge Graph enhanced Entity COrrection for query rewriting, an entity correction system with corrupt entity
-span detection and entity retrieval/re-ranking functionalities.
 </div>
 </div>
 
@@ -153,7 +148,6 @@ span detection and entity retrieval/re-ranking functionalities.
 
 Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fan, Chenlei Guo
 
-- We build and evaluate a scalable entity correction system, PENTATRON, which leverages a parametric transformer-based language model to learn patterns from in-session customer-device interactions coupled with a non-parametric personalized entity index to compute the correct query.
 </div>
 </div>
 
@@ -165,7 +159,6 @@ Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fa
 
 Yuji Zhang, Yubo Zhang, Chunpu Xu, Jing Li, **Ziyan Jiang**, Baolin Peng
 
-- We propose a novel personalized topic attention to capture salient contents to personalize hashtag contexts.
 </div>
 </div>
 
@@ -177,7 +170,6 @@ Yuji Zhang, Yubo Zhang, Chunpu Xu, Jing Li, **Ziyan Jiang**, Baolin Peng
 
 Yuekai Zhang, **Ziyan Jiang**, Jesús Villalba, Najim Dehak
 
-- We use MI-FGSM to improve the transferability of adversarial examples and propose an iterative ensemble method (IEM) to further improve the transferability. 
 </div>
 </div>
 
@@ -189,7 +181,6 @@ Yuekai Zhang, **Ziyan Jiang**, Jesús Villalba, Najim Dehak
 
 Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, **Ziyan Jiang**, Masao Someki, Nelson Enrique Yalta Soplin, Ryuichi Yamamoto, Xiaofei Wang, Shinji Watanabe, Takenori Yoshimura, Wangyou Zhang
 
-- We undertake intensive studies in which we experimentally compared and analyzed Transformer and conventional recurrent neural networks (RNN) in a total of 15 ASR, one multilingual ASR, one ST, and two TTS benchmarks. Our experiments reveal various training tips and significant performance benefits obtained with Transformer for each task including the surprising superiority of Transformer in 13/15 ASR benchmarks in comparison with RNN.
 </div>
 </div>
 
