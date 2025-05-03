@@ -77,10 +77,6 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-  
-    // Allow size customization via CSS variables
-    --box-width: 400px;
-    --box-height: 300px;
 
     .paper-box-image{
         justify-content: center;
