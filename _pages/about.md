@@ -33,21 +33,23 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 <h1 id="publications">📝 Publications (*: equal contribution/co-first author)</h1>
 Full publications on [Google Scholar](https://scholar.google.com/citations?user=wDJjd2IAAAAJ&hl=en).
 
-<div class='paper-box'>
-  <div class='paper-box-image' style="width: 200px; height: 150px;">
+<div class="paper-box">
+  <div class="paper-box-image">
     <div>
       <div class="badge">ICLR 2025</div>
-      <img src='images/vlm2vec.png' alt="sym" style="width: 100%; height: 100%; object-fit: contain;">
+      <img src="images/vlm2vec.png" alt="VLM2Vec teaser image">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+
+  <div class="paper-box-text" markdown="1">
 
 [VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks](https://arxiv.org/abs/2410.05160)
 
 **Ziyan Jiang**, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen
 
 [**Project Page**](https://tiger-ai-lab.github.io/VLM2Vec/)
-</div>
+
+  </div>
 </div>
 
 
