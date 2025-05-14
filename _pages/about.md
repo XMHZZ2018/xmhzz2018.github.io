@@ -213,7 +213,7 @@ Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, **Z
 <div class='paper-box-text' markdown="1">
 - *2014.09 - 2018.07*
 - Nanjing University 
-- Acoustics, B.S.
+- Acoustics & Physics, B.S.
 </div>
 </div>
 
