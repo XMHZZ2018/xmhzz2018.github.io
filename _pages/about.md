@@ -29,7 +29,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 - *2025.04*: I’ve moved my personal homepage to this new site; the old one is now deprecated.
 
 
-{% include_relative includes/pub_w_image.md %}
+{% include_relative includes/pub.md %}
 
 
 <h1 id="educations">📖 Educations</h1>
