@@ -6,37 +6,15 @@ _Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zh
 <span class='paper-asset'><a href="https://arxiv.org/abs/2505.20139">Paper</a></span> <span class='paper-asset'><a href="https://tiger-ai-lab.github.io/StructEval/">Website</a></span>
 
 
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">ICLR 2025</div>
-      <img src="images/vlm2vec.png" alt="sym">
-    </div>
-  </div>
-
-  <div class="paper-box-text" markdown="1">
-
-[VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks](https://arxiv.org/abs/2410.05160)
-
-**Ziyan Jiang**, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen
-
-[**Project Page**](https://tiger-ai-lab.github.io/VLM2Vec/)
-
-  </div>
-</div>
+- <span class='paper-badge'>ICLR 2025</span> **VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks**<br>
+_<u><b>Ziyan Jiang</b></u>, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2410.05160">Paper</a></span> <span class='paper-asset'><a href="https://tiger-ai-lab.github.io/VLM2Vec/">Website</a></span>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/mega-bench.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- <span class='paper-badge'>ICLR 2025</span> **MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks**<br>
+_Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, <u><b>Ziyan Jiang</b></u>, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2410.10563">Paper</a></span> <span class='paper-asset'><a href="https://tiger-ai-lab.github.io/MEGA-Bench/">Website</a></span>
 
-[MEGA-Bench: Scaling Multimodal Evaluation to over 500 Real-World Tasks](https://arxiv.org/abs/2410.10563)
-
-Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang, Yuansheng Ni, Wang Zhu, **Ziyan Jiang**, Bohan Lyu, Dongfu Jiang, Xuan He, Yuan Liu, Hexiang Hu, Xiang Yue, Wenhu Chen
-
-[**Project Page**](https://tiger-ai-lab.github.io/MEGA-Bench/)
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/kg-rec.png' alt="sym" width="100%"></div></div>
