@@ -27,34 +27,21 @@ _Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo,
 
 
 - <span class='paper-badge'>EMNLP 2024</span> **VideoScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation**<br>
-_Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, <u><b>Ziyan Jiang</b></u>, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen
-_<br>
+_Xuan He, Dongfu Jiang, Ge Zhang, Max Ku, Achint Soni, Sherman Siu, Haonan Chen, Abhranil Chandra, <u><b>Ziyan Jiang</b></u>, Aaran Arulraj, Kai Wang, Quy Duc Do, Yuansheng Ni, Bohan Lyu, Yaswanth Narsupalli, Rongqi Fan, Zhiheng Lyu, Yuchen Lin, Wenhu Chen_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2406.15252">Paper</a></span> <span class='paper-asset'><a href="https://tiger-ai-lab.github.io/VideoScore/">Website</a></span>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 (Findings)</div><img src='images/ssrm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Semi-Supervised Reward Modeling via Iterative Self-Training](https://arxiv.org/abs/2409.06903)
-
-Yifei He, Haoxiang Wang, **Ziyan Jiang**, Alexandros Papangelis, Han Zhao
-
-[**Code**](https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm/SSRM)
-
-</div>
-</div>
+- <span class='paper-badge'>EMNLP 2024 (Findings)</span> **Semi-Supervised Reward Modeling via Iterative Self-Training**<br>
+_Yifei He, Haoxiang Wang, <u><b>Ziyan Jiang</b></u>, Alexandros Papangelis, Han Zhao_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2409.06903">Paper</a></span> <span class='paper-asset'><a href="https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm/SSRM">Code</a></span>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024 (Findings)</div><img src='images/recmind.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- <span class='paper-badge'>NAACL 2024 (Findings)</span> **RecMind: Large Language Model Powered Agent For Recommendation**<br>
+_Yancheng Wang, <u><b>Ziyan Jiang</b></u>, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2308.14296">Paper</a></span>
 
-[RecMind: Large Language Model Powered Agent For Recommendation](https://arxiv.org/abs/2308.14296)
 
-Yancheng Wang, **Ziyan Jiang**, Zheng Chen, Fan Yang, Yingxue Zhou, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Yingzhen Yang
 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 (Industry)</div><img src='images/cdfs.png' alt="sym" width="100%"></div></div>
