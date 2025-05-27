@@ -36,8 +36,28 @@ Full publications on [Google Scholar](https://scholar.google.com/citations?user=
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge">Preprint</div>
+      <img src="images/structeval.png" alt="sym">
+    </div>
+  </div>
+
+  <div class="paper-box-text" markdown="1">
+
+[StructEval: Benchmarking LLMs’ Capabilities to Generate Structural Outputs](https://arxiv.org/abs/2505.20139)
+
+Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, **Ziyan Jiang**, Ping Nie, Wenhu Chen
+
+[**Project Page**](https://tiger-ai-lab.github.io/StructEval/)
+
+  </div>
+</div>
+
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <div class="badge">ICLR 2025</div>
-      <img src="images/vlm2vec.png" alt="VLM2Vec teaser image">
+      <img src="images/vlm2vec.png" alt="sym">
     </div>
   </div>
 
