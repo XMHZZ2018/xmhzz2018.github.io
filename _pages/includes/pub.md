@@ -17,7 +17,7 @@ _Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang,
 
 
 - <span class='paper-badge'>ICASSP 2025</span> **Knowledge Enhanced Multi-Domain Recommendations in an AI Assistant Application**<br>
-_Elan Markowitz, <u><b>Ziyan Jiang</b></u>, Fan Yang, Xing Fan, Zheng Chen, Greg Ver Steeg_<br>
+_Elan Markowitz, <u><b>Ziyan Jiang</b></u>, Fan Yang, Xing Fan, Zheng Chen, Greg Ver Steeg, Aram Galstyan_<br>
 <span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/10889248">Paper</a></span>
 
 
