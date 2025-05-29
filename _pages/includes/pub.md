@@ -18,7 +18,7 @@ _Jiacheng Chen, Tianhao Liang, Sherman Siu, Zhengqing Wang, Kai Wang, Yubo Wang,
 
 - <span class='paper-badge'>ICASSP 2025</span> **Knowledge Enhanced Multi-Domain Recommendations in an AI Assistant Application**<br>
 _Elan Markowitz, <u><b>Ziyan Jiang</b></u>, Fan Yang, Xing Fan, Zheng Chen, Greg Ver Steeg, Aram Galstyan_<br>
-<span class='paper-asset'><a href="https://ieeexplore.ieee.org/abstract/document/10889248">Paper</a></span>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2306.06302">Paper</a></span>
 
 
 - <span class='paper-badge'>NeurIPS 2024</span> **MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark**<br>
