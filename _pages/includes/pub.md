@@ -42,66 +42,33 @@ _Yancheng Wang, <u><b>Ziyan Jiang</b></u>, Zheng Chen, Fan Yang, Yingxue Zhou, E
 
 
 - <span class='paper-badge'>EMNLP 2023 (Industry)</span> **Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding**<br>
-_Zheng Chen\*, <u><b>Ziyan Jiang\*</b></u>, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan_<br>
+_Zheng Chen\*, <u><b>Ziyan Jiang*</b></u>, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan_<br>
 <span class='paper-asset'><a href="https://aclanthology.org/2023.emnlp-industry.75/">Paper</a></span>
 
 
+- <span class='paper-badge'>ICASSP 2023</span> **KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting**<br>
+_Jinglun Cai, Mingda Li, <u><b>Ziyan Jiang</b></u>, Eunah Cho, Zheng Chen, Yang Liu, Xing Fan, Chenlei Guo_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2302.10454">Paper</a></span>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/kg-eco.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting](https://arxiv.org/abs/2302.10454)
-
-Jinglun Cai, Mingda Li, **Ziyan Jiang**, Eunah Cho, Zheng Chen, Yang Liu, Xing Fan, Chenlei Guo
-
-</div>
-</div>
+- <span class='paper-badge'>EMNLP 2022 (Industry)</span> **PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding**<br>
+_Niranjan Uma Naresh\*, <u><b>Ziyan Jiang*</b></u>, Ankit\*, Sungjin Lee, Jie Hao, Xing Fan, Chenlei Guo_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2210.12308">Paper</a></span>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022 (Industry)</div><img src='images/pentatron.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PENTATRON: PErsonalized coNText-Aware Transformer for Retrieval-based cOnversational uNderstanding](https://arxiv.org/abs/2210.12308)
-
-Niranjan Uma Naresh\*, **Ziyan Jiang\***, Ankit\*, Sungjin Lee, Jie Hao, Xing Fan, Chenlei Guo
-
-</div>
-</div>
+- <span class='paper-badge'>EMNLP 2021</span> **#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention**<br>
+_Yuji Zhang, Yubo Zhang, Chunpu Xu, Jing Li, <u><b>Ziyan Jiang</b></u>, Baolin Peng_<br>
+<span class='paper-asset'><a href="https://aclanthology.org/2021.emnlp-main.616/">Paper</a></span>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='images/hashtag.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Black-box Attacks on Spoofing Countermeasures Using Transferability of Adversarial Examples](https://aclanthology.org/2021.emnlp-main.616/)
-
-Yuji Zhang, Yubo Zhang, Chunpu Xu, Jing Li, **Ziyan Jiang**, Baolin Peng
-
-</div>
-</div>
+- <span class='paper-badge'>Interspeech 2020</span> **Black-box Attacks on Spoofing Countermeasures Using Transferability of Adversarial Examples**<br>
+_Yuekai Zhang, <u><b>Ziyan Jiang</b></u>, Jesús Villalba, Najim Dehak_<br>
+<span class='paper-asset'><a href="https://www.isca-archive.org/interspeech_2020/zhang20ha_interspeech.pdf">Paper</a></span>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interspeech 2020</div><img src='images/iem.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Black-box Attacks on Spoofing Countermeasures Using Transferability of Adversarial Examples](https://www.isca-archive.org/interspeech_2020/zhang20ha_interspeech.pdf)
-
-Yuekai Zhang, **Ziyan Jiang**, Jesús Villalba, Najim Dehak
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASRU 2019</div><img src='images/espnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Comparative Study on Transformer vs RNN in Speech Applications](https://arxiv.org/abs/1909.06317)
-
-Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, **Ziyan Jiang**, Masao Someki, Nelson Enrique Yalta Soplin, Ryuichi Yamamoto, Xiaofei Wang, Shinji Watanabe, Takenori Yoshimura, Wangyou Zhang
-
-</div>
-</div>
+- <span class='paper-badge'>ASRU 2019</span> **A Comparative Study on Transformer vs RNN in Speech Applications**<br>
+_Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, <u><b>Ziyan Jiang</b></u>, Masao Someki, Nelson Enrique Yalta Soplin, Ryuichi Yamamoto, Xiaofei Wang, Shinji Watanabe, Takenori Yoshimura, Wangyou Zhang_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/1909.06317">Paper</a></span>
 
 
 - <span class='paper-badge'>Gen-IR@SIGIR 2023</span> [PALR: Personalization Aware LLMs for Recommendation](https://arxiv.org/abs/2305.07622), Fan Yang\*, Zheng Chen\*, **Ziyan Jiang\***, Eunah Cho, Xiaojiang Huang, Yanbin Lu
