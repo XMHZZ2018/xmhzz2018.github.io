@@ -41,18 +41,12 @@ _Yancheng Wang, <u><b>Ziyan Jiang</b></u>, Zheng Chen, Fan Yang, Yingxue Zhou, E
 <span class='paper-asset'><a href="https://arxiv.org/abs/2308.14296">Paper</a></span>
 
 
+- <span class='paper-badge'>EMNLP 2023 (Industry)</span> **Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding**<br>
+_Zheng Chen\*, <u><b>Ziyan Jiang\*</b></u>, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan_<br>
+<span class='paper-asset'><a href="https://aclanthology.org/2023.emnlp-industry.75/">Paper</a></span>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023 (Industry)</div><img src='images/cdfs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding](https://aclanthology.org/2023.emnlp-industry.75/)
-
-Zheng Chen\*, **Ziyan Jiang\***, Fan Yang\*, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu, Aram Galstyan
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/kg-eco.png' alt="sym" width="100%"></div></div>
