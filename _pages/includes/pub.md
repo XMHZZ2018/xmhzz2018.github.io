@@ -21,6 +21,11 @@ _Elan Markowitz, <u><b>Ziyan Jiang</b></u>, Fan Yang, Xing Fan, Zheng Chen, Greg
 <span class='paper-asset'><a href="https://arxiv.org/abs/2306.06302">Paper</a></span>
 
 
+- <span class='paper-badge'>Preprint</span> **LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs**<br>
+_<u><b>Ziyan Jiang</b></u>, Xueguang Ma, Wenhu Chen_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2406.15319">Paper</a></span>
+
+
 - <span class='paper-badge'>NeurIPS 2024</span> **MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark**<br>
 _Yubo Wang, Xueguang Ma, Ge Zhang, Yuansheng Ni, Abhranil Chandra, Shiguang Guo, Weiming Ren, Aaran Arulraj, Xuan He, <u><b>Ziyan Jiang</b></u>, Tianle Li, Max Ku, Kai Wang, Alex Zhuang, Rongqi Fan, Xiang Yue, Wenhu Chen_<br>
 <span class='paper-asset'><a href="https://arxiv.org/pdf/2406.01574">Paper</a></span> <span class='paper-asset'><a href="https://github.com/TIGER-AI-Lab/MMLU-Pro">Code</a></span>
