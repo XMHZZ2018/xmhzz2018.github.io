@@ -46,7 +46,7 @@ _Zheng Chen\*, <u><b>Ziyan Jiang*</b></u>, Fan Yang\*, Eunah Cho, Xing Fan, Xiao
 <span class='paper-asset'><a href="https://aclanthology.org/2023.emnlp-industry.75/">Paper</a></span>
 
 
-- <span class='paper-badge'>ASRU 2019</span> **PALR: Personalization Aware LLMs for Recommendation**<br>
+- <span class='paper-badge'>Gen-IR@SIGIR 2023</span> **PALR: Personalization Aware LLMs for Recommendation**<br>
 _Fan Yang\*, Zheng Chen\*, <u><b>Ziyan Jiang*</b></u>, Eunah Cho, Xiaojiang Huang, Yanbin Lu_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2305.07622">Paper</a></span>
 
