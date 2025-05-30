@@ -46,6 +46,11 @@ _Zheng Chen\*, <u><b>Ziyan Jiang*</b></u>, Fan Yang\*, Eunah Cho, Xing Fan, Xiao
 <span class='paper-asset'><a href="https://aclanthology.org/2023.emnlp-industry.75/">Paper</a></span>
 
 
+- <span class='paper-badge'>ASRU 2019</span> **PALR: Personalization Aware LLMs for Recommendation**<br>
+_Fan Yang\*, Zheng Chen\*, <u><b>Ziyan Jiang*</b></u>, Eunah Cho, Xiaojiang Huang, Yanbin Lu_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2305.07622">Paper</a></span>
+
+
 - <span class='paper-badge'>ICASSP 2023</span> **KG-ECO: Knowledge Graph Enhanced Entity Correction for Query Rewriting**<br>
 _Jinglun Cai, Mingda Li, <u><b>Ziyan Jiang</b></u>, Eunah Cho, Zheng Chen, Yang Liu, Xing Fan, Chenlei Guo_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2302.10454">Paper</a></span>
@@ -56,21 +61,22 @@ _Niranjan Uma Naresh\*, <u><b>Ziyan Jiang*</b></u>, Ankit\*, Sungjin Lee, Jie Ha
 <span class='paper-asset'><a href="https://arxiv.org/abs/2210.12308">Paper</a></span>
 
 
+- <span class='paper-badge'>NLP4ConvAI@EMNLP 2021</span> **Personalized search-based query rewrite system for conversational ai**<br>
+_Eunah Cho, <u><b>Ziyan Jiang</b></u>, Jie Hao, Zheng Chen, Saurabh Gupta, Xing Fan, Chenlei Guo_<br>
+<span class='paper-asset'><a href="https://aclanthology.org/2021.nlp4convai-1.17/">Paper</a></span>
+
+
 - <span class='paper-badge'>EMNLP 2021</span> **#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention**<br>
 _Yuji Zhang, Yubo Zhang, Chunpu Xu, Jing Li, <u><b>Ziyan Jiang</b></u>, Baolin Peng_<br>
-<span class='paper-asset'><a href="https://aclanthology.org/2021.emnlp-main.616/">Paper</a></span>
+<span class='paper-asset'><a href="https://aclanthology.org/2021.emnlp-main.616/">Paper</a></span> <span class='paper-asset'><a href="https://github.com/polyusmart/Personalized-Hashtag-Preferences">Code</a></span>
 
 
 - <span class='paper-badge'>Interspeech 2020</span> **Black-box Attacks on Spoofing Countermeasures Using Transferability of Adversarial Examples**<br>
 _Yuekai Zhang, <u><b>Ziyan Jiang</b></u>, Jesús Villalba, Najim Dehak_<br>
-<span class='paper-asset'><a href="https://www.isca-archive.org/interspeech_2020/zhang20ha_interspeech.pdf">Paper</a></span>
+<span class='paper-asset'><a href="https://www.isca-archive.org/interspeech_2020/zhang20ha_interspeech.pdf">Paper</a></span> <span class='paper-asset'><a href="https://xmhzz2018.github.io/adv-transfer-demo/">Demo</a></span>
 
 
 - <span class='paper-badge'>ASRU 2019</span> **A Comparative Study on Transformer vs RNN in Speech Applications**<br>
 _Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, <u><b>Ziyan Jiang</b></u>, Masao Someki, Nelson Enrique Yalta Soplin, Ryuichi Yamamoto, Xiaofei Wang, Shinji Watanabe, Takenori Yoshimura, Wangyou Zhang_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/1909.06317">Paper</a></span>
 
-
-- <span class='paper-badge'>Gen-IR@SIGIR 2023</span> [PALR: Personalization Aware LLMs for Recommendation](https://arxiv.org/abs/2305.07622), Fan Yang\*, Zheng Chen\*, **Ziyan Jiang\***, Eunah Cho, Xiaojiang Huang, Yanbin Lu
-
-- <span class='paper-badge'>NLP4ConvAI@EMNLP 2021</span> [Personalized search-based query rewrite system for conversational ai](https://aclanthology.org/2021.nlp4convai-1.17/), Eunah Cho, **Ziyan Jiang**, Jie Hao, Zheng Chen, Saurabh Gupta, Xing Fan, Chenlei Guo
