@@ -53,7 +53,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 
 <h1 id="working-experiences">💻 Working Experiences</h1>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/amazon_logo.jpg' alt="sym" style="width: 200px; height: 200px; object-fit: contain;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/amazon_logo.jpg' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2020.07 - 2024.08*
 - Amazon Alexa AI & AGI 
