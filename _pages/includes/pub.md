@@ -1,6 +1,7 @@
 <h1 id="publications">📝 Publications (*: equal contribution/co-first author)</h1>
 Full publications on [Google Scholar](https://scholar.google.com/citations?user=wDJjd2IAAAAJ&hl=en).
 
+
 - <span class='paper-badge'>Preprint</span> **StructEval: Benchmarking LLMs’ Capabilities to Generate Structural Outputs**<br>
 _Jialin Yang, Dongfu Jiang, Lipeng He, Sherman Siu, Yuxuan Zhang, Disen Liao, Zhuofeng Li, Huaye Zeng, Yiming Jia, Haozhe Wang, Benjamin Schneider, Chi Ruan, Wentao Ma, Zhiheng Lyu, Yifei Wang, Yi Lu, Quy Duc Do, <u><b>Ziyan Jiang</b></u>, Ping Nie, Wenhu Chen_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2505.20139">Paper</a></span> <span class='paper-asset'><a href="https://tiger-ai-lab.github.io/StructEval/">Website</a></span>
