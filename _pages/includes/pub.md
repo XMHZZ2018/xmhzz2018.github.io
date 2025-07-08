@@ -9,7 +9,7 @@ _Xuan Zhang, <u><b>Ziyan Jiang</b></u>, Rui Meng, Yifei Leng, Zhenbang Xiao, Zor
 
 - <span class='paper-badge'>Preprint</span> **VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents**<br>
 _Rui Meng*, <u><b>Ziyan Jiang*</b></u>, Ye Liu, Mingyi Su, Xinyi Yang, Yuepeng Fu, Can Qin, Zeyuan Chen, Ran Xu, Caiming Xiong, Yingbo Zhou, Wenhu Chen, Semih Yavuz_<br>
-<span class='paper-asset'><a href="">Paper</a></span> <span class='paper-asset'><a href="https://github.com/TIGER-AI-Lab/VLM2Vec">Code</a></span>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2507.04590">Paper</a></span> <span class='paper-asset'><a href="https://tiger-ai-lab.github.io/VLM2Vec/">Website</a></span>
 
 
 - <span class='paper-badge'>Preprint</span> **StructEval: Benchmarking LLMs’ Capabilities to Generate Structural Outputs**<br>
