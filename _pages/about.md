@@ -36,7 +36,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ucsb_logo.png' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2025.09 - *
+- *2025.09 -*
 - University of California, Santa Barbara
 - Computer Science, Ph.D.
 </div>
