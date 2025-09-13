@@ -32,6 +32,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 {% include_relative includes/pub.md %}
 
 
+
 <h1 id="educations">📖 Educations</h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ucsb_logo.png' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
@@ -57,6 +58,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 - Acoustics & Physics, B.S.
 </div>
 </div>
+
 
 
 <h1 id="working-experiences">💻 Working Experiences</h1>
