@@ -37,6 +37,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 
 <h1 id="educations">📖 Educations</h1>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ucsb_logo.png' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2025.09 -*
@@ -64,6 +65,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 
 
 <h1 id="working-experiences">💻 Working Experiences</h1>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/amazon_logo.jpg' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
