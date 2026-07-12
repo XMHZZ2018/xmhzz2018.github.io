@@ -3,7 +3,7 @@ Full publications on [Google Scholar](https://scholar.google.com/citations?user=
 
 
 - <span class='paper-badge'>Preprint</span> **VisualSkill: Multimodal Skills for Computer-Use Agents**<br>
-_<u><b>Ziyan Jiang</b></u>, Li An, Yujian Liu, Jiabao Ji, Qiucheng Wu, Jacob Andreas, Yang Zhang, Shiyu Chang_<br>
+_<u><b>Ziyan Jiang*</b></u>, Li An\*, Yujian Liu, Jiabao Ji, Qiucheng Wu, Jacob Andreas, Yang Zhang, Shiyu Chang_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2606.18448">Paper</a></span> <span class='paper-asset'><a href="https://github.com/XMHZZ2018/VisualSkills">Code</a></span>
 
 
