@@ -71,6 +71,14 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 <h1 id="working-experiences">💻 Working Experiences</h1>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/salesforce_logo.svg' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2026.06 - Present*
+- Salesforce AI Research
+- Research Intern
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/amazon_logo.jpg' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2020.07 - 2024.08*
