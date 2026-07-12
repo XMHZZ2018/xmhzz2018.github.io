@@ -26,6 +26,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 
 
 # 🔥 News
+- *2026.07*: MMEB-V3 has been accepted to COLM 2026.
 - *2026.01*: I will be joining Salesforce Research as a research intern this coming summer.
 - *2026.01*: VLM2Vec-V2 has been accepted to TMLR.
 - *2025.04*: I’ve moved my personal homepage to this new site; the old one is now deprecated.

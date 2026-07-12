@@ -2,6 +2,11 @@
 Full publications on [Google Scholar](https://scholar.google.com/citations?user=wDJjd2IAAAAJ&hl=en).
 
 
+- <span class='paper-badge'>COLM 2026</span> **MMEB-V3: Measuring the Performance Gaps of Omni-Modality Embedding Models**<br>
+_Haohang Huang, Xuan Lu, Mingyi Su, Xuan Zhang, <u><b>Ziyan Jiang</b></u>, Ping Nie, Kai Zou, Tomas Pfister, Wenhu Chen, Wei Zhang, Xiaoyu Shen, Rui Meng_<br>
+<span class='paper-asset'><a href="https://arxiv.org/abs/2604.23321">Paper</a></span>
+
+
 - <span class='paper-badge'>Computer-use Agents@ICML 2025</span> **Universal Retrieval for Multimodal Trajectory Modeling**<br>
 _Xuan Zhang, <u><b>Ziyan Jiang</b></u>, Rui Meng, Yifei Leng, Zhenbang Xiao, Zora Zhiruo Wang, Yanyi Shang, Dehan Kong_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2506.22056v1">Paper</a></span>
