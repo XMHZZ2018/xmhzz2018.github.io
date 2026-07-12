@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a CS Ph.D. student in the [NLP Lab](http://nlp.cs.ucsb.edu/) at UC Santa Barbara (UCSB), advised by [Prof. Shiyu Chang](https://code-terminator.github.io/). Previously, I earned my bachelor's degree from Nanjing University and my master's degree from Johns Hopkins University. Before starting my Ph.D., I spent several years as a full-time applied scientist at Amazon Alexa AI and Amazon AGI.
+I'm a CS Ph.D. student in the [NLP Lab](http://nlp.cs.ucsb.edu/) at UC Santa Barbara (UCSB), advised by [Prof. Shiyu Chang](https://code-terminator.github.io/). I'm currently a research intern at <img src='images/salesforce_logo.svg' alt="Salesforce" style="height: 18px; vertical-align: middle;"> Salesforce AI Research. Previously, I earned my bachelor's degree from Nanjing University and my master's degree from Johns Hopkins University. Before starting my Ph.D., I was a full-time applied scientist at <img src='images/amazon_logo.jpg' alt="Amazon" style="height: 18px; vertical-align: middle;"> Amazon Alexa AI / AGI.
 
-My research focuses on natural language processing, information retrieval, and speech recognition.
+My current research interests are self-evolving agents, agentic RL, and multimodal learning. I have previously worked on conversational AI, information retrieval, and LLMs for personalization.
 
 I’m always open to collaboration opportunities. If you're interested, feel free to reach out to me via **ziyanjiang528@gmail.com**
 
