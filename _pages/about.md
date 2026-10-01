@@ -26,6 +26,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 
 
 # 🔥 News
+- *2026.09*: We released [WorldAuditBench](https://ucsb-nlp-chang.github.io/WorldAuditBench/), a benchmark for interactive 3D world auditing with multimodal agents.
 - *2026.07*: MMEB-V3 has been accepted to COLM 2026.
 - *2026.01*: I will be joining Salesforce Research as a research intern this coming summer.
 - *2026.01*: VLM2Vec-V2 has been accepted to TMLR.

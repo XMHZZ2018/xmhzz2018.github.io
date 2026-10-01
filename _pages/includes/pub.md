@@ -2,6 +2,11 @@
 Full publications on [Google Scholar](https://scholar.google.com/citations?user=wDJjd2IAAAAJ&hl=en).
 
 
+- <span class='paper-badge'>Preprint</span> **WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**<br>
+_<u><b>Ziyan Jiang*</b></u>, Jingbo Yang\*, Jiabao Ji\*, Yujian Liu, Qiucheng Wu, Tommi Jaakkola, Yang Zhang, Shiyu Chang_<br>
+<span class='paper-asset'><a href="https://arxiv.org/pdf/2609.40325">Paper</a></span> <span class='paper-asset'><a href="https://ucsb-nlp-chang.github.io/WorldAuditBench/">Website</a></span> <span class='paper-asset'><a href="https://github.com/UCSB-NLP-Chang/WorldAuditBench">Code</a></span>
+
+
 - <span class='paper-badge'>Preprint</span> **VisualSkill: Multimodal Skills for Computer-Use Agents**<br>
 _<u><b>Ziyan Jiang*</b></u>, Li An\*, Yujian Liu, Jiabao Ji, Qiucheng Wu, Jacob Andreas, Yang Zhang, Shiyu Chang_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/2606.18448">Paper</a></span> <span class='paper-asset'><a href="https://github.com/XMHZZ2018/VisualSkills">Code</a></span>
@@ -105,5 +110,4 @@ _Yuekai Zhang, <u><b>Ziyan Jiang</b></u>, Jesús Villalba, Najim Dehak_<br>
 - <span class='paper-badge'>ASRU 2019</span> **A Comparative Study on Transformer vs RNN in Speech Applications**<br>
 _Shigeki Karita, Nanxin Chen, Tomoki Hayashi, Takaaki Hori, Hirofumi Inaguma, <u><b>Ziyan Jiang</b></u>, Masao Someki, Nelson Enrique Yalta Soplin, Ryuichi Yamamoto, Xiaofei Wang, Shinji Watanabe, Takenori Yoshimura, Wangyou Zhang_<br>
 <span class='paper-asset'><a href="https://arxiv.org/abs/1909.06317">Paper</a></span>
-
 
