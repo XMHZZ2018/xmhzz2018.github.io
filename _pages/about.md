@@ -17,23 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a CS Ph.D. student in the [NLP Lab](http://nlp.cs.ucsb.edu/) at UC Santa Barbara (UCSB), advised by [Prof. Shiyu Chang](https://code-terminator.github.io/). I'm currently a research intern at <img src='images/salesforce_logo.svg' alt="Salesforce" style="height: 18px; vertical-align: middle;"> Salesforce AI Research. Previously, I earned my bachelor's degree from Nanjing University and my master's degree from Johns Hopkins University. Before starting my Ph.D., I was a full-time applied scientist at <img src='images/amazon_logo.jpg' alt="Amazon" style="height: 18px; vertical-align: middle;"> Amazon Alexa AI / AGI.
+{% include internship-notice.html %}
 
-My current research interests are self-evolving agents, agentic RL, and multimodal learning. I have previously worked on conversational AI, information retrieval, and LLMs for personalization.
+I'm a CS Ph.D. student in the [NLP Lab](http://nlp.cs.ucsb.edu/) at UC Santa Barbara (UCSB), advised by [Prof. Shiyu Chang](https://code-terminator.github.io/) and [Dr. Yang Zhang](https://mitibm.mit.edu/people/yang-zhang/) (MIT-IBM Watson AI Lab). I'm currently a research intern at <img src='images/salesforce_logo.svg' alt="Salesforce" style="height: 18px; vertical-align: middle;"> Salesforce AI Research, hosted by [Dr. Semih Yavuz](https://www.salesforce.com/blog/author/semih-yavuz/) and [Prof. Shafiq Joty](https://raihanjoty.github.io/). I have also closely collaborated with [Prof. Wenhu Chen](https://wenhuchen.github.io/) at [TIGER-AI Lab](https://wenhuchen.github.io/lab.html).
 
-I’m always open to collaboration opportunities. If you're interested, feel free to reach out to me via **ziyanjiang528@gmail.com**
+Previously, I earned my bachelor's degree from <span class="bio-logo" aria-hidden="true"><img src="images/nju_logo.png" alt="" width="18" height="18"></span> Nanjing University and my master's degree from <span class="bio-logo bio-logo--jhu" aria-hidden="true"><img src="images/jhu_logo.jpg" alt="" width="1024" height="683"></span> Johns Hopkins University. Before starting my Ph.D., I was a full-time applied scientist at <img src='images/amazon_logo.jpg' alt="Amazon" style="height: 18px; vertical-align: middle;"> Amazon Alexa AI / AGI.
+
+**My current research interests are self-evolving agents, agentic RL, and multimodal learning.** I have previously worked on conversational AI, information retrieval, and LLMs for personalization.
 
 
 
 {% include affiliations.html %}
 
-# News
-{: #news}
-- *2026.09*: We released [WorldAuditBench](https://ucsb-nlp-chang.github.io/WorldAuditBench/), a benchmark for interactive 3D world auditing with multimodal agents.
-- *2026.07*: MMEB-V3 has been accepted to COLM 2026.
-- *2026.01*: I will be joining Salesforce Research as a research intern this coming summer.
-- *2026.01*: VLM2Vec-V2 has been accepted to TMLR.
-- *2025.04*: I’ve moved my personal homepage to this new site; the old one is now deprecated.
+{% include news.html %}
 
 
 

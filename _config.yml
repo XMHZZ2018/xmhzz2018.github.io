@@ -8,8 +8,9 @@
 # Site Settings
 title                    : "Ziyan Jiang (蒋子彦)"
 description              : "Ph.D. Student in Computer Science"
-repository               : "ErnestZYJ/ErnestZYJ.github.io"
-google_scholar_stats_use_cdn : true
+repository               : "XMHZZ2018/xmhzz2018.github.io"
+google_scholar_id         : "wDJjd2IAAAAJ"
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

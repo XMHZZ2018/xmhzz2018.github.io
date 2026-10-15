@@ -1,5 +1,5 @@
 <h1 id="publications">Publications <span class="publications-note">* Equal contribution / co-first author</span></h1>
-Full publications on [Google Scholar](https://scholar.google.com/citations?user=wDJjd2IAAAAJ&hl=en).
+Full publications on [Google Scholar](https://scholar.google.com/citations?user=wDJjd2IAAAAJ&hl=en). <a id="scholar-citations" class="scholar-citations" href="https://scholar.google.com/citations?user=wDJjd2IAAAAJ&amp;hl=en" hidden><span class="scholar-citations__label">Citations</span><span id="total_cit" class="scholar-citations__count"></span></a>
 
 
 - <span class='paper-badge'>Preprint</span> **WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents**<br>

@@ -1,23 +1,147 @@
-/* Quiet typography and a shared blue-gray palette for the academic homepage. */
+/* Quiet typography and a shared neutral palette with restrained blue accents for the academic homepage. */
+.page__content .internship-notice {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.9rem;
+  margin: 0 0 1.25rem;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid #e7e2ed;
+  border-left: 3px solid #84729c;
+  border-radius: 6px;
+  background: #faf8fc;
+
+  .internship-notice__content {
+    min-width: 0;
+  }
+
+  .internship-notice__dot {
+    position: relative;
+    flex: 0 0 9px;
+    width: 9px;
+    height: 9px;
+    margin-top: 0.38rem;
+    border-radius: 50%;
+    background: #84729c;
+
+    &::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      border-radius: inherit;
+      background: inherit;
+      animation: internship-pulse 2s ease-out infinite;
+    }
+  }
+
+  h2 {
+    margin: 0 0 0.4rem;
+    color: #514760;
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.4;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.88rem;
+    line-height: 1.65;
+  }
+
+  strong { font-weight: 600; }
+  a { overflow-wrap: anywhere; }
+}
+
+@keyframes internship-pulse {
+  from { transform: scale(1); opacity: 0.6; }
+  to { transform: scale(2.8); opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page__content .internship-notice .internship-notice__dot::after {
+    animation: none;
+  }
+}
+
 .sidebar .author__name {
-  color: #172b3a;
+  color: #202630;
   font-size: 1.55rem;
   letter-spacing: -0.035em;
 }
 
 .author__bio,
 .author__urls {
-  color: #59687a;
+  color: #68717e;
+}
+
+.page__content .scholar-citations {
+  display: inline-flex;
+  align-items: stretch;
+  margin-left: 0.4rem;
+  border-radius: 4px;
+  overflow: hidden;
+  vertical-align: middle;
+  font-size: 0.75rem;
+  line-height: 1.7;
+  color: #fff;
+  text-decoration: none;
+
+  &[hidden] {
+    display: none;
+  }
+
+  &:hover {
+    text-decoration: none;
+    filter: brightness(1.08);
+  }
+
+  span {
+    padding: 1px 0.5rem;
+  }
+
+  .scholar-citations__label {
+    background: #566372;
+  }
+
+  .scholar-citations__count {
+    background: #376285;
+    font-variant-numeric: tabular-nums;
+  }
 }
 
 .page__content {
+  .bio-logo {
+    display: inline-block;
+    position: relative;
+    width: 18px;
+    height: 18px;
+    overflow: hidden;
+    vertical-align: -3px;
+
+    img {
+      display: block;
+      width: 18px;
+      height: 18px;
+      margin: 0;
+      object-fit: contain;
+    }
+  }
+
+  .bio-logo--jhu img {
+    position: absolute;
+    max-width: none;
+    width: 121px;
+    height: auto;
+    left: -51.5px;
+    top: -23px;
+  }
+
   > p {
     margin-bottom: 0.8rem;
   }
 
   h1 {
     margin-top: 1.65rem;
-    color: #172b3a;
+    color: #202630;
     font-size: 1.35rem;
     font-weight: 600;
     letter-spacing: -0.025em;
@@ -25,14 +149,14 @@
 
   .publications-note {
     margin-left: 0.5rem;
-    color: #59687a;
+    color: #68717e;
     font-size: 0.75rem;
     font-weight: 400;
     letter-spacing: 0;
   }
 
   a {
-    text-decoration-color: #c4d4e3;
+    text-decoration-color: #b9cbd9;
     text-underline-offset: 3px;
   }
 
@@ -45,13 +169,13 @@
     }
 
     em {
-      color: #59687a;
+      color: #68717e;
       font-size: 0.88em;
       font-style: normal;
     }
 
     strong {
-      color: #213345;
+      color: #2d3642;
       font-weight: 600;
     }
 

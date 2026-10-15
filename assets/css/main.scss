@@ -43,8 +43,8 @@
 
 .paper-badge {
   display: inline-block;
-  background-color: #edf3f8;
-  color: #315f88;
+  background-color: #eef3f7;
+  color: #376285;
   font-size: 0.75em;
   font-weight: 600;
   padding: 2px 0.45rem;
@@ -52,8 +52,8 @@
 }
 
 .paper-prebadge {
-  background-color: #f0f2f5;
-  color: #536477;
+  background-color: #f2f4f6;
+  color: #566372;
   font-size: 0.85em;
   padding: 2px 0.3rem;
   border-radius: 5px;
@@ -64,8 +64,8 @@
   margin: 0.25rem 0.2rem 0 0;
   font-size: 0.75em;
   border-radius: 4px;
-  color: #315f88;
-  border-color: #d8e3ed;
+  color: #376285;
+  border-color: #dce4eb;
   border-style: solid;
   border-width: 1px;
   a {
@@ -74,7 +74,7 @@
     text-decoration: none;
 
     &:hover {
-      background: #edf3f8;
+      background: #eef3f7;
       text-decoration: none;
     }
   }
@@ -151,3 +151,5 @@ h1:before, .anchor:before {
 }
 
 @import "refinements";
+@import "news";
+@import "profile";
