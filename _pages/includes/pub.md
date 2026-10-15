@@ -38,18 +38,18 @@
       <div class="publication-topics"><span data-topic="multimodal">Multimodal Learning</span><span data-topic="evaluation">Evaluation &amp; Benchmark</span></div>
       <div class="publication-links"><a href="https://arxiv.org/abs/2604.23321">Paper</a> <a href="https://github.com/TIGER-AI-Lab/VLM2Vec">Code</a></div>
     </li>
-    <li class="publication" data-role="collaborator" data-topics="agents retrieval multimodal" id="paper-universal-retrieval">
+    <li class="publication" data-role="collaborator" data-topics="agents retrieval multimodal evaluation" id="paper-universal-retrieval">
       <div class="publication-meta"><span class="publication-venue">Computer-use Agents@ICML 2025</span></div>
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2506.22056v1">Universal Retrieval for Multimodal Trajectory Modeling</a></h3>
       <p class="publication-authors">Xuan Zhang, <strong>Ziyan Jiang</strong>, Rui Meng, Yifei Leng, Zhenbang Xiao, Zora Zhiruo Wang, Yanyi Shang, Dehan Kong</p>
-      <div class="publication-topics"><span data-topic="agents">Agents</span><span data-topic="retrieval">Retrieval &amp; RAG</span><span data-topic="multimodal">Multimodal Learning</span></div>
+      <div class="publication-topics"><span data-topic="agents">Agents</span><span data-topic="retrieval">Retrieval &amp; RAG</span><span data-topic="multimodal">Multimodal Learning</span><span data-topic="evaluation">Evaluation &amp; Benchmark</span></div>
       <div class="publication-links"><a href="https://arxiv.org/abs/2506.22056v1">Paper</a></div>
     </li>
-    <li class="publication" data-role="cofirst" data-topics="multimodal retrieval" id="paper-vlm2vec-v2">
+    <li class="publication" data-role="cofirst" data-topics="multimodal retrieval evaluation" id="paper-vlm2vec-v2">
       <div class="publication-meta"><span class="publication-venue">TMLR 2026</span></div>
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2507.04590">VLM2Vec-V2: Advancing Multimodal Embedding for Videos, Images, and Visual Documents</a></h3>
       <p class="publication-authors">Rui Meng*, <strong>Ziyan Jiang*</strong>, Ye Liu, Mingyi Su, Xinyi Yang, Yuepeng Fu, Can Qin, Raghuveer Thirukovalluru, Xuan Zhang, Zeyuan Chen, Ran Xu, Caiming Xiong, Yingbo Zhou, Wenhu Chen, Semih Yavuz</p>
-      <div class="publication-topics"><span data-topic="multimodal">Multimodal Learning</span><span data-topic="retrieval">Retrieval &amp; RAG</span></div>
+      <div class="publication-topics"><span data-topic="multimodal">Multimodal Learning</span><span data-topic="retrieval">Retrieval &amp; RAG</span><span data-topic="evaluation">Evaluation &amp; Benchmark</span></div>
       <div class="publication-links"><a href="https://arxiv.org/abs/2507.04590">Paper</a> <a href="https://tiger-ai-lab.github.io/VLM2Vec/">Website</a></div>
     </li>
     <li class="publication" data-role="collaborator" data-topics="evaluation" id="paper-structeval">
@@ -59,11 +59,11 @@
       <div class="publication-topics"><span data-topic="evaluation">Evaluation &amp; Benchmark</span></div>
       <div class="publication-links"><a href="https://arxiv.org/abs/2505.20139">Paper</a> <a href="https://tiger-ai-lab.github.io/StructEval/">Website</a></div>
     </li>
-    <li class="publication" data-role="lead" data-topics="multimodal retrieval" id="paper-vlm2vec">
+    <li class="publication" data-role="lead" data-topics="multimodal retrieval evaluation" id="paper-vlm2vec">
       <div class="publication-meta"><span class="publication-venue">ICLR 2025</span></div>
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2410.05160">VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks</a></h3>
       <p class="publication-authors"><strong>Ziyan Jiang</strong>, Rui Meng, Xinyi Yang, Semih Yavuz, Yingbo Zhou, Wenhu Chen</p>
-      <div class="publication-topics"><span data-topic="multimodal">Multimodal Learning</span><span data-topic="retrieval">Retrieval &amp; RAG</span></div>
+      <div class="publication-topics"><span data-topic="multimodal">Multimodal Learning</span><span data-topic="retrieval">Retrieval &amp; RAG</span><span data-topic="evaluation">Evaluation &amp; Benchmark</span></div>
       <div class="publication-links"><a href="https://arxiv.org/abs/2410.05160">Paper</a> <a href="https://tiger-ai-lab.github.io/VLM2Vec/">Website</a></div>
     </li>
     <li class="publication" data-role="collaborator" data-topics="multimodal evaluation" id="paper-mega-bench">
