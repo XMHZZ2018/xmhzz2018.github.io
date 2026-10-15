@@ -36,6 +36,18 @@
       font-size: 0.82rem;
       font-weight: 500;
       line-height: 1.4;
+      transition: color 160ms ease;
+      -webkit-tap-highlight-color: transparent;
+
+      // Mouse/touch feedback uses the underline; keyboard focus stays visible.
+      &:focus { outline: none; }
+      &:focus-visible {
+        outline: 2px solid #9bb1c2;
+        outline-offset: 5px;
+        border-radius: 4px;
+      }
+      &:active { color: #376285; }
+      &:active::after { background: #376285; }
 
       &:hover, &[aria-current="location"] { color: #263848; }
 
@@ -56,7 +68,6 @@
     }
   }
 
-  a:focus-visible { outline: 2px solid #376285; outline-offset: 4px; border-radius: 2px; }
 
   @media (max-width: 639px) {
     .site-navigation {
@@ -74,7 +85,7 @@
   }
 
   @media (prefers-reduced-motion: reduce) {
-    .site-navigation__links a::after { transition: none; }
+    .site-navigation__links a, .site-navigation__links a::after { transition: none; }
   }
 }
 

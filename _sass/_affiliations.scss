@@ -96,12 +96,27 @@
   }
 
   @media (min-width: 640px) {
-    .affiliations__list--education {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
+    // Share content-sized columns across both rows, with balanced whitespace.
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, max-content));
+    justify-content: space-between;
+    column-gap: 2rem;
+    row-gap: 1rem;
+
+    .affiliations__group {
+      display: grid;
+      grid-column: 1 / -1;
+      grid-template-columns: subgrid;
     }
 
-    .affiliations__list--experience {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
+    .affiliations__group + .affiliations__group { margin-top: 0; }
+
+    h2 { grid-column: 1 / -1; }
+
+    .affiliations__list {
+      grid-column: 1 / -1;
+      grid-template-columns: subgrid;
+      column-gap: inherit;
     }
   }
 }
