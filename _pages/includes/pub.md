@@ -108,6 +108,13 @@
       <div class="publication-topics"><span data-topic="post-training">Post-training</span></div>
       <div class="publication-links"><a href="https://arxiv.org/abs/2409.06903">Paper</a> <a href="https://github.com/RLHFlow/RLHF-Reward-Modeling/tree/main/pair-pm/SSRM">Code</a></div>
     </li>
+    <li class="publication" data-role="mentored" data-topics="post-training" id="paper-papeft">
+      <div class="publication-meta"><span class="publication-venue">Preprint</span></div>
+      <h3 class="publication-title"><a href="https://arxiv.org/abs/2404.01430">Position-Aware Parameter Efficient Fine-Tuning Approach for Reducing Positional Bias in LLMs</a></h3>
+      <p class="publication-authors">Zheng Zhang, Fan Yang, <strong>Ziyan Jiang</strong>, Zheng Chen, Zhengyang Zhao, Chengyuan Ma, Liang Zhao, Yang Liu</p>
+      <div class="publication-topics"><span data-topic="post-training">Post-training</span></div>
+      <div class="publication-links"><a href="https://arxiv.org/pdf/2404.01430">Paper</a></div>
+    </li>
     <li class="publication" data-role="mentored" data-topics="agents personalization" id="paper-recmind">
       <div class="publication-meta"><span class="publication-venue">NAACL 2024 (Findings)</span></div>
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2308.14296">RecMind: Large Language Model Powered Agent For Recommendation</a></h3>
