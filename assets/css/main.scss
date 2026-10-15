@@ -33,6 +33,7 @@
 @import "page";
 @import "archive";
 @import "sidebar";
+@import "affiliations";
 
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
@@ -41,31 +42,41 @@
 @import "print";
 
 .paper-badge {
-  background-color: #1565c0;
-  color: white;
-  font-size: 0.85em;
-  padding: 2px 0.3rem;
-  border-radius: 5px;
+  display: inline-block;
+  background-color: #edf3f8;
+  color: #315f88;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 2px 0.45rem;
+  border-radius: 4px;
 }
 
 .paper-prebadge {
-  background-color: #2aa198;
-  color: white;
+  background-color: #f0f2f5;
+  color: #536477;
   font-size: 0.85em;
   padding: 2px 0.3rem;
   border-radius: 5px;
 }
 
 .paper-asset {
-  font-size: 0.6875em;
-  padding: 2px 0.2rem;
-  border-radius: 5px;
-  color: #1565c0;
-  border-color: #1565c0;
+  display: inline-block;
+  margin: 0.25rem 0.2rem 0 0;
+  font-size: 0.75em;
+  border-radius: 4px;
+  color: #315f88;
+  border-color: #d8e3ed;
   border-style: solid;
   border-width: 1px;
   a {
+    display: block;
+    padding: 1px 0.45rem;
     text-decoration: none;
+
+    &:hover {
+      background: #edf3f8;
+      text-decoration: none;
+    }
   }
 }
 
@@ -138,3 +149,5 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+@import "refinements";

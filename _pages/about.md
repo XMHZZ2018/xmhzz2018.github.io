@@ -25,7 +25,10 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 
 
 
-# 🔥 News
+{% include affiliations.html %}
+
+# News
+{: #news}
 - *2026.09*: We released [WorldAuditBench](https://ucsb-nlp-chang.github.io/WorldAuditBench/), a benchmark for interactive 3D world auditing with multimodal agents.
 - *2026.07*: MMEB-V3 has been accepted to COLM 2026.
 - *2026.01*: I will be joining Salesforce Research as a research intern this coming summer.
@@ -39,58 +42,7 @@ I’m always open to collaboration opportunities. If you're interested, feel fre
 
 
 
-<h1 id="educations">📖 Educations</h1>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/ucsb_logo.png' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2025.09 -*
-- University of California, Santa Barbara
-- Computer Science, Ph.D.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/jhu_logo.jpg' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2018.08 - 2020.05*
-- Johns Hopkins University 
-- Electrical and Computer Engineering, M.S.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/nju_logo.png' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2014.09 - 2018.07*
-- Nanjing University 
-- Acoustics & Physics, B.S.
-</div>
-</div>
-
-
-
-
-<h1 id="working-experiences">💻 Working Experiences</h1>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/salesforce_logo.svg' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2026.06 - Present*
-- Salesforce AI Research
-- Research Intern
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/amazon_logo.jpg' alt="sym" style="width: 100px; height: 100px; object-fit: contain;"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2020.07 - 2024.08*
-- Amazon Alexa AI & AGI 
-- Applied Scientist I -> Applied Scientist II
-</div>
-</div>
-
-
-
-<h1 id="services">🧐 Services</h1>
+<h1 id="services">Services</h1>
 - Conference Reviewer: NeurIPS(2024-Present), ICLR(2024-Present), ACL ARR(2023-Present), ICASSP(2024-Present)
 - Journal Reviewer: IEEE Access, TOIS
 - Workshop Organizer: [The First Workshop on Personalized Generative AI (@CIKM2023)](https://sites.google.com/view/pgai2023/home), [The Second Workshop on Generative Information Retrieval (@SIGIR2024)](https://coda.io/@sigir/gen-ir-24)

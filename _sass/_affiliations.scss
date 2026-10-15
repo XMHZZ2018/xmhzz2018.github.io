@@ -1,0 +1,107 @@
+.page__content .affiliations {
+  margin: 1.25rem 0 1.5rem;
+  padding: 1rem 1.1rem;
+  background: #f7f9fc;
+  border: 1px solid #e5eaf0;
+  border-radius: 10px;
+
+  .affiliations__group + .affiliations__group {
+    margin-top: 1rem;
+  }
+
+  h2 {
+    margin: 0 0 0.6rem;
+    color: #315f88;
+    font-size: 0.8rem;
+    font-weight: 600;
+    scroll-margin-top: 5rem;
+  }
+
+  .affiliations__list {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.85rem 1.25rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.6rem;
+    margin: 0;
+    font-size: 0.88rem;
+    line-height: 1.45;
+  }
+
+  img {
+    flex: 0 0 28px;
+    width: 28px;
+    height: 28px;
+    margin-top: 2px;
+    object-fit: contain;
+  }
+
+  li > div {
+    min-width: 0;
+  }
+
+  strong,
+  span {
+    display: block;
+  }
+
+  strong {
+    color: #213345;
+    font-weight: 600;
+  }
+
+  span {
+    margin-top: 0.15rem;
+    color: #59687a;
+    font-size: 0.8rem;
+  }
+
+  // Use the same icon footprint while compensating for source-image whitespace.
+  .affiliations__logo {
+    position: relative;
+    flex: 0 0 28px;
+    width: 28px;
+    height: 28px;
+    margin-top: 2px;
+    overflow: hidden;
+    mix-blend-mode: multiply;
+
+    img {
+      position: absolute;
+      max-width: none;
+      height: auto;
+      margin: 0;
+    }
+  }
+
+  // Show the shield above the wordmark in the original 1024 x 683 image.
+  .affiliations__logo--jhu img {
+    width: 188px;
+    left: -80px;
+    top: -36px;
+  }
+
+  // Fit the letter and smile, excluding the surrounding whitespace.
+  .affiliations__logo--amazon img {
+    width: 40px;
+    left: -6px;
+    top: -7px;
+  }
+
+  @media (min-width: 640px) {
+    .affiliations__list--education {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .affiliations__list--experience {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+}
