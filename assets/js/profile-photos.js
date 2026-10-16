@@ -8,6 +8,8 @@
   const status = gallery.querySelector('.author__photo-status');
   let current = 0;
   let ready = false;
+  let pressedPointerType = '';
+  const hover = matchMedia('(hover: hover)');
 
   function show(index, announce) {
     if (!ready || current === index) return;
@@ -26,20 +28,28 @@
     photos[1].hidden = false;
     gallery.classList.add('has-secondary');
     toggle.disabled = false;
-    if (matchMedia('(hover: hover)').matches && frame.matches(':hover')) show(1);
+    if (hover.matches && frame.matches(':hover')) show(1);
   }
   photos[1].addEventListener('load', enable, {once: true});
   if (photos[1].complete) enable();
 
   frame.addEventListener('pointerenter', function (event) {
-    if (event.pointerType === 'mouse') show(1);
+    if (hover.matches && event.pointerType === 'mouse') show(1);
   });
   frame.addEventListener('pointerleave', function (event) {
-    if (event.pointerType === 'mouse') show(0);
+    if (hover.matches && event.pointerType === 'mouse') show(0);
+  });
+  toggle.addEventListener('pointerdown', function (event) {
+    pressedPointerType = event.pointerType;
+  });
+  toggle.addEventListener('pointercancel', function () {
+    pressedPointerType = '';
   });
   toggle.addEventListener('click', function (event) {
-    // Hover handles the mouse; taps and keyboard activation toggle the photo.
-    if (event.pointerType === 'mouse' && event.detail > 0) return;
+    // Safari can label a touch-generated click as mouse: use the actual press.
+    const input = pressedPointerType || event.pointerType;
+    pressedPointerType = '';
+    if (hover.matches && input === 'mouse' && event.detail > 0) return;
     show(1 - current, true);
   });
   toggle.addEventListener('keydown', function (event) {
