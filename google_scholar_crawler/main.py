@@ -5,7 +5,9 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
-import requests
+from urllib.parse import urlencode
+
+from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
 
@@ -29,10 +31,23 @@ def parse_total(content, scholar_id):
 def fetch_total(scholar_id):
     if not re.fullmatch(r'[A-Za-z0-9_-]+', scholar_id):
         raise ValueError('Invalid Google Scholar ID')
-    response = requests.get('https://scholar.google.com/citations',
-                            params={'user': scholar_id, 'hl': 'en'}, timeout=30)
-    response.raise_for_status()
-    return parse_total(response.content, scholar_id)
+    url = 'https://scholar.google.com/citations?' + urlencode({
+        'user': scholar_id, 'hl': 'en',
+    })
+    # Scholar may reject bare HTTP clients even when the public profile opens
+    # normally in a browser. Read the rendered page without cookies or login.
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(channel='chromium')
+        try:
+            page = browser.new_page()
+            response = page.goto(url, wait_until='domcontentloaded', timeout=45000)
+            if response is None or not response.ok:
+                status = response.status if response else 'no response'
+                raise RuntimeError(f'Scholar returned {status}; retaining previous citation data')
+            page.locator('#gsc_rsb_st .gsc_rsb_std').first.wait_for(timeout=15000)
+            return parse_total(page.content(), scholar_id)
+        finally:
+            browser.close()
 
 
 def save_results(data, directory):
@@ -47,4 +62,4 @@ def save_results(data, directory):
 if __name__ == '__main__':
     data = fetch_total(os.environ['GOOGLE_SCHOLAR_ID'])
     save_results(data, Path(__file__).parent / 'results')
-    print(f"Updated total citations at {data['updated']}")
+    print(f"Updated total citations: {data['citedby']} at {data['updated']}")
