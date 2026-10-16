@@ -4,8 +4,14 @@
 
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
-  <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__photo" alt="{{ author.name }}" width="160" height="160">
+  <div class="author__portraits" role="group" aria-label="Profile photos">
+    <div class="author__avatar">
+      <button class="author__photo-toggle" type="button" disabled aria-label="Show next profile photo">
+        <img src="{{ author.avatar }}" class="author__photo is-active" alt="{{ author.name }} outdoors" width="160" height="160">
+        <img src="{{ '/images/me-portrait.png' | relative_url }}" class="author__photo" alt="{{ author.name }} portrait" width="160" height="160" aria-hidden="true" hidden>
+      </button>
+    </div>
+    <span class="author__photo-status screen-reader-text" aria-live="polite" aria-atomic="true"></span>
   </div>
 
   <div class="author__content">

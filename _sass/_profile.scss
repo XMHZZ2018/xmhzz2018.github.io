@@ -227,3 +227,49 @@
     transition: none;
   }
 }
+
+/* Two real photos share the existing stacked-frame silhouette. */
+.sidebar .author__portraits {
+  width: 96px;
+
+  &.has-secondary .author__avatar::before { display: none; }
+
+  .author__photo-toggle {
+    display: grid;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    border-radius: inherit;
+    background: transparent;
+    appearance: none;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+    cursor: pointer;
+
+    &:disabled { cursor: default; opacity: 1; }
+    &:focus { outline: none; }
+    &:focus-visible { outline: 2px solid #526d85; outline-offset: 6px; }
+
+    .author__photo {
+      grid-area: 1 / 1;
+      position: relative;
+      z-index: 1;
+      transform: translate(-3px, -2px) rotate(-6deg);
+      transition: transform 300ms ease, box-shadow 300ms ease;
+
+      &[hidden] { display: none; }
+      &.is-active {
+        z-index: 2;
+        transform: none;
+        box-shadow: 0 10px 24px -12px rgba(43, 66, 91, 0.35);
+      }
+    }
+  }
+
+  @media (min-width: 925px) { width: 176px; }
+  @media (max-width: 374px) { width: 76px; }
+  @media (prefers-reduced-motion: reduce) {
+    .author__photo-toggle .author__photo { transition: none; }
+  }
+}
