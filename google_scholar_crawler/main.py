@@ -1,13 +1,11 @@
-"""Read the all-time citation total from one public Google Scholar profile."""
+"""Fetch a validated Google Scholar total through the SerpApi author API."""
 import json
 import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
 
-from urllib.parse import urlencode
-
-from playwright.sync_api import sync_playwright
+import requests
 from bs4 import BeautifulSoup
 
 
@@ -28,26 +26,57 @@ def parse_total(content, scholar_id):
     }
 
 
+def parse_api_total(payload, scholar_id):
+    """Reject errors, the wrong profile, and incomplete/invalid citation totals."""
+    try:
+        if (payload.get('error') or
+                payload['search_metadata']['status'] != 'Success' or
+                payload['search_parameters']['engine'] != 'google_scholar_author' or
+                payload['search_parameters']['author_id'] != scholar_id):
+            raise ValueError
+        name = payload['author']['name']
+        rows = payload['cited_by']['table']
+        totals = [row['citations']['all'] for row in rows if 'citations' in row]
+        if len(totals) != 1:
+            raise ValueError
+        count = totals[0]
+        if type(count) is not int or count < 0 or not isinstance(name, str) or not name.strip():
+            raise ValueError
+    except (KeyError, TypeError, ValueError, AttributeError):
+        # Do not include response content; provider errors may echo credentials.
+        raise ValueError('Invalid Scholar API result; retaining previous citation data') from None
+    return {
+        'scholar_id': scholar_id,
+        'name': name.strip(),
+        'citedby': count,
+        'updated': datetime.now(timezone.utc).isoformat(timespec='seconds'),
+    }
+
+
 def fetch_total(scholar_id):
     if not re.fullmatch(r'[A-Za-z0-9_-]+', scholar_id):
         raise ValueError('Invalid Google Scholar ID')
-    url = 'https://scholar.google.com/citations?' + urlencode({
-        'user': scholar_id, 'hl': 'en',
-    })
-    # Scholar may reject bare HTTP clients even when the public profile opens
-    # normally in a browser. Read the rendered page without cookies or login.
-    with sync_playwright() as playwright:
-        browser = playwright.chromium.launch(channel='chromium')
-        try:
-            page = browser.new_page()
-            response = page.goto(url, wait_until='domcontentloaded', timeout=45000)
-            if response is None or not response.ok:
-                status = response.status if response else 'no response'
-                raise RuntimeError(f'Scholar returned {status}; retaining previous citation data')
-            page.locator('#gsc_rsb_st .gsc_rsb_std').first.wait_for(timeout=15000)
-            return parse_total(page.content(), scholar_id)
-        finally:
-            browser.close()
+    api_key = os.environ.get('SERPAPI_API_KEY', '').strip()
+    if not api_key:
+        raise RuntimeError('Set the SERPAPI_API_KEY repository Actions secret before running')
+    try:
+        response = requests.get('https://serpapi.com/search.json', params={
+            'engine': 'google_scholar_author',
+            'author_id': scholar_id,
+            'hl': 'en',
+            'api_key': api_key,
+        }, timeout=(10, 90), allow_redirects=False)
+    except requests.RequestException:
+        # Request exception URLs contain the key: never log or chain them.
+        raise RuntimeError('Scholar API connection failed; retaining previous data') from None
+    if response.status_code != 200:
+        raise RuntimeError(f'Scholar API returned HTTP {response.status_code}; '
+                           'check the API key and quota; retaining previous data')
+    try:
+        payload = response.json()
+    except ValueError:
+        raise ValueError('Scholar API returned invalid JSON; retaining previous data') from None
+    return parse_api_total(payload, scholar_id)
 
 
 def save_results(data, directory):

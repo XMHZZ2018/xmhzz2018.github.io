@@ -20,8 +20,8 @@ concurrency:
 
 jobs:
   update:
-    runs-on: macos-15
-    timeout-minutes: 8
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -31,13 +31,12 @@ jobs:
           cache-dependency-path: google_scholar_crawler/requirements.txt
       - name: Install dependencies
         run: python -m pip install -r google_scholar_crawler/requirements.txt
-      - name: Install browser
-        run: python -m playwright install chromium
       - name: Validate citation parsing
         run: python -m unittest discover -s google_scholar_crawler -p 'test_*.py'
       - name: Fetch total citations
         env:
           GOOGLE_SCHOLAR_ID: wDJjd2IAAAAJ
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
         run: python google_scholar_crawler/main.py
       - name: Publish successful snapshot
         shell: bash
