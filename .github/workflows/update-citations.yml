@@ -2,13 +2,13 @@ name: Get Citation Data
 
 on:
   schedule:
-    - cron: '47 9 * * *'
+    - cron: '55 9 * * *'
   workflow_dispatch:
   push:
     branches: [main]
     paths:
       - 'google_scholar_crawler/**'
-      - '.github/workflows/google_scholar_crawler.yaml'
+      - '.github/workflows/update-citations.yml'
       - '_config.yml'
 
 permissions:

@@ -13,7 +13,7 @@ successful fetch date. Failed requests never overwrite the saved total.
 4. In Actions, select **Get Citation Data** → **Run workflow**.
 5. Confirm both **Fetch total citations** and **Publish successful snapshot** pass.
 
-The workflow runs daily at 09:47 UTC (02:47 PDT / 01:47 PST), and can also be run
+The workflow runs daily at 09:55 UTC (02:55 PDT / 01:55 PST), and can also be run
 manually. Each run makes one SerpApi Google Scholar Author request, requesting
 only the author profile's total rather than fetching individual paper citations.
 Allow for extra usage when testing or running it manually. GitHub's scheduled
