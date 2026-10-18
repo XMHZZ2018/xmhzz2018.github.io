@@ -33,6 +33,20 @@
     }
   }
 
+  const refreshInterval = 5 * 60 * 1000;
+  let lastAttempt = 0;
+  function refresh() {
+    lastAttempt = Date.now();
+    load(settings.scholarUrl);
+  }
+
   load(settings.fallbackUrl);
-  load(settings.scholarUrl);
+  refresh();
+  // Long-lived tabs should pick up newly published snapshots without a reload.
+  setInterval(function () {
+    if (!document.hidden) refresh();
+  }, refreshInterval);
+  document.addEventListener('visibilitychange', function () {
+    if (!document.hidden && Date.now() - lastAttempt >= refreshInterval) refresh();
+  });
 })();
