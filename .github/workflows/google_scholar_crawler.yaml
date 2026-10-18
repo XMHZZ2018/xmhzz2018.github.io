@@ -2,9 +2,7 @@ name: Get Citation Data
 
 on:
   schedule:
-    - cron: '37 8 * * *'
-    # Temporary trigger probe; remove after a real schedule event succeeds.
-    - cron: '*/5 * * * *'
+    - cron: '47 9 * * *'
   workflow_dispatch:
   push:
     branches: [main]
