@@ -138,6 +138,16 @@
       background: #edf2f6;
       font-size: 0.9rem;
     }
+
+    .author__cv-link {
+      color: #284f70;
+      font-weight: 650;
+
+      > i {
+        color: #284f70;
+        background: #e4eef5;
+      }
+    }
   }
 
   .author__urls_sm { display: none; }
