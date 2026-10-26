@@ -23,7 +23,7 @@ I'm a CS Ph.D. student in the [NLP Lab](http://nlp.cs.ucsb.edu/) at UC Santa Bar
 
 Previously, I earned my bachelor's degree from <span class="bio-logo" aria-hidden="true"><img src="images/nju_logo.png" alt="" width="18" height="18"></span> Nanjing University and my master's degree from <span class="bio-logo bio-logo--jhu" aria-hidden="true"><img src="images/jhu_logo.jpg" alt="" width="18" height="18"></span> Johns Hopkins University. Before starting my Ph.D., I was a full-time applied scientist at <img src='images/amazon_logo.jpg' alt="Amazon" style="height: 18px; vertical-align: middle;"> Amazon Alexa AI / AGI.
 
-**My current research interests are self-evolving agents, agentic RL, and multimodal learning.** I have previously worked on conversational AI, information retrieval, and LLMs for personalization.
+**My current research interests are self-evolving agents, agentic post-training, and multimodal learning.** I have previously worked on conversational AI, information retrieval, and LLMs for personalization.
 
 
 
