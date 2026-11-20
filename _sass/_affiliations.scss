@@ -1,75 +1,84 @@
+/* Compact institution cards: three schools, then two industry roles. */
 .page__content .affiliations {
-  margin: 1.25rem 0 1.5rem;
-  padding: 1rem 1.1rem;
-  background: #fafbfc;
-  border: 1px solid #e7ebef;
-  border-radius: 10px;
+  display: grid;
+  grid-auto-rows: 1fr;
+  gap: 0.85rem;
+  margin: 1.4rem 0 1.75rem;
 
-  .affiliations__group + .affiliations__group {
-    margin-top: 1rem;
+  .affiliations__group {
+    display: grid;
+    grid-template-columns: 7.25rem minmax(0, 1fr);
+    align-items: stretch;
+    gap: 1rem;
+    min-width: 0;
   }
 
   h2 {
-    margin: 0 0 0.6rem;
-    color: #68717e;
-    font-size: 0.8rem;
+    align-self: center;
+    margin: 0;
+    color: #526477;
+    font-size: 0.9375rem;
     font-weight: 600;
+    line-height: 1.45;
     scroll-margin-top: 5rem;
   }
 
   .affiliations__list {
     display: grid;
-    grid-template-columns: minmax(0, 1fr);
-    gap: 0.85rem 1.25rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75rem;
     margin: 0;
     padding: 0;
     list-style: none;
   }
 
   li {
-    display: flex;
-    align-items: flex-start;
-    gap: 0.6rem;
+    display: grid;
+    grid-template-columns: 32px minmax(0, 1fr);
+    align-items: start;
+    gap: 0.65rem;
     margin: 0;
-    font-size: 0.88rem;
-    line-height: 1.45;
+    padding: 0.875rem 0.75rem;
+    min-height: 6rem;
+    border: 1px solid #e1e7ef;
+    border-radius: 11px;
+    background: linear-gradient(145deg, #fff 15%, #f5f7fb 100%);
+    box-shadow: 0 2px 3px -1px rgba(30, 53, 82, 0.08),
+                0 6px 14px -7px rgba(30, 53, 82, 0.2),
+                inset 0 1px 0 #fff;
+    line-height: 1.4;
   }
 
-  img {
-    flex: 0 0 28px;
-    width: 28px;
-    height: 28px;
-    margin-top: 2px;
-    object-fit: contain;
-  }
-
-  li > div {
-    min-width: 0;
-  }
-
-  strong,
-  span {
-    display: block;
-  }
+  li > div { min-width: 0; }
 
   strong {
-    color: #2d3642;
+    display: block;
+    color: #2d3c4d;
+    font-size: 0.9375rem;
     font-weight: 600;
   }
 
-  span {
-    margin-top: 0.15rem;
-    color: #68717e;
-    font-size: 0.8rem;
+  li > div > span {
+    display: block;
+    margin-top: 0.2rem;
+    color: #626e7c;
+    font-size: 0.875rem;
+    line-height: 1.45;
   }
 
-  // Use the same icon footprint while compensating for source-image whitespace.
+  li > img {
+    display: block;
+    width: 32px;
+    height: 32px;
+    margin: 0;
+    object-fit: contain;
+  }
+
   .affiliations__logo {
+    display: block;
     position: relative;
-    flex: 0 0 28px;
-    width: 28px;
-    height: 28px;
-    margin-top: 2px;
+    width: 32px;
+    height: 32px;
     overflow: hidden;
     mix-blend-mode: multiply;
 
@@ -81,42 +90,33 @@
     }
   }
 
-  // Show the shield above the wordmark in the original 1024 x 683 image.
+  // Compensate for whitespace in the source images without changing the assets.
   .affiliations__logo--jhu img {
-    width: 188px;
-    left: -80px;
-    top: -36px;
+    width: 215px;
+    left: -91.5px;
+    top: -41px;
   }
 
-  // Fit the letter and smile, excluding the surrounding whitespace.
   .affiliations__logo--amazon img {
-    width: 40px;
-    left: -6px;
-    top: -7px;
+    width: 45.7px;
+    left: -6.85px;
+    top: -8px;
   }
 
-  @media (min-width: 640px) {
-    // Share content-sized columns across both rows, with balanced whitespace.
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, max-content));
-    justify-content: space-between;
-    column-gap: 2rem;
-    row-gap: 1rem;
-
+  @media (max-width: 1200px) {
     .affiliations__group {
-      display: grid;
-      grid-column: 1 / -1;
-      grid-template-columns: subgrid;
+      grid-template-columns: minmax(0, 1fr);
+      grid-template-rows: auto 1fr;
+      gap: 0.5rem;
     }
+  }
 
-    .affiliations__group + .affiliations__group { margin-top: 0; }
-
-    h2 { grid-column: 1 / -1; }
+  @media (max-width: 680px) {
+    grid-auto-rows: auto;
 
     .affiliations__list {
-      grid-column: 1 / -1;
-      grid-template-columns: subgrid;
-      column-gap: inherit;
+      grid-template-columns: minmax(0, 1fr);
+      gap: 0.5rem;
     }
   }
 }

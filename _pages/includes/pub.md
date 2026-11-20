@@ -17,6 +17,13 @@
     <p class="publication-results" role="status" aria-live="polite" aria-atomic="true"></p>
   </div>
   <ul class="publication-list">
+    <li class="publication" data-role="collaborator" data-topics="agents multimodal post-training" id="paper-worldauditor">
+      <div class="publication-meta"><span class="publication-venue">Preprint</span></div>
+      <h3 class="publication-title"><a href="https://arxiv.org/pdf/2611.25543">Efficient Multimodal Agents for Auditing 3D Worlds</a></h3>
+      <p class="publication-authors">Jingbo Yang, <strong>Ziyan Jiang</strong>, Li An, Jiabao Ji, Yujian Liu, Tommi Jaakkola, Yang Zhang, Shiyu Chang</p>
+      <div class="publication-topics"><span data-topic="agents">Agents</span><span data-topic="multimodal">Multimodal Learning</span><span data-topic="post-training">Post-training</span></div>
+      <div class="publication-links"><a href="https://arxiv.org/pdf/2611.25543">Paper</a> <a href="https://github.com/UCSB-NLP-Chang/WorldAuditor">Code</a></div>
+    </li>
     <li class="publication" data-role="cofirst" data-topics="agents multimodal evaluation" id="paper-worldauditbench">
       <div class="publication-meta"><span class="publication-venue">Preprint</span></div>
       <h3 class="publication-title"><a href="https://arxiv.org/pdf/2609.40325">WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents</a></h3>
